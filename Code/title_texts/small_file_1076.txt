@@ -1,0 +1,1 @@
+Neural network-based modeling to predict residual stresses during electric discharge machining of Al/SiC metal matrix composites

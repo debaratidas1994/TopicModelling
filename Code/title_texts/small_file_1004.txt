@@ -1,0 +1,1 @@
+Optimization of support vector machine based multi-fault classification with evolutionary algorithms from time domain vibration data of gears

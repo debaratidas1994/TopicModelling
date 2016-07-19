@@ -1,0 +1,1 @@
+Inventory model with deteriorating items, ramp-type demand and partially backlogged shortages for a two warehouse system

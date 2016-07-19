@@ -1,0 +1,1 @@
+Fractional order heat conduction law in micropolar thermo-viscoelasticity with two temperatures

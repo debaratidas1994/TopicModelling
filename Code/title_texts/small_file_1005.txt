@@ -1,0 +1,1 @@
+Semiactive control of a fixed offshore jacket platform using LQR algorithm

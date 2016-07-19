@@ -1,0 +1,1 @@
+Releasing high aspect ratio SU-8 microstructures using AZ photoresist as a sacrificial layer on metallized Si substrates

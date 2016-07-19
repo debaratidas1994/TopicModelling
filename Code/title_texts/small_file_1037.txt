@@ -1,0 +1,1 @@
+Application of Adomian decomposition method and inverse solution for a fin with variable thermal conductivity and heat generation

@@ -1,0 +1,1 @@
+Optimal replenishment policies for non-instantaneous deteriorating items with price and stock sensitive demand under permissible delay in payment

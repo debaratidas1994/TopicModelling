@@ -1,0 +1,1 @@
+Switching function analysis of half- and full-bridge modular multi-level converters for HVDC applications

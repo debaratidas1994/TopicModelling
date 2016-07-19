@@ -1,0 +1,1233 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.013890801826083777" totalTokens="5424" titles="bed, coal, air, gas, fluidized, solid, studies, fluidized_bed, modeling, performance">
+	<word weight="0.008296460176991151" count="45">bed</word>
+	<word weight="0.007005899705014749" count="38">coal</word>
+	<word weight="0.0058997050147492625" count="32">air</word>
+	<word weight="0.005162241887905605" count="28">gas</word>
+	<word weight="0.005162241887905605" count="28">fluidized</word>
+	<word weight="0.004609144542772861" count="25">solid</word>
+	<word weight="0.004609144542772861" count="25">studies</word>
+	<word weight="0.004424778761061947" count="24">fluidized_bed</word>
+	<word weight="0.004056047197640118" count="22">modeling</word>
+	<word weight="0.004056047197640118" count="22">performance</word>
+	<word weight="0.003687315634218289" count="20">iron</word>
+	<word weight="0.0031342182890855457" count="17">liquid</word>
+	<word weight="0.0031342182890855457" count="17">high</word>
+	<word weight="0.0031342182890855457" count="17">optimization</word>
+	<word weight="0.0029498525073746312" count="16">experimental</word>
+	<word weight="0.0029498525073746312" count="16">behavior</word>
+	<word weight="0.0025811209439528023" count="14">packed</word>
+	<word weight="0.0025811209439528023" count="14">reactor</word>
+	<word weight="0.0025811209439528023" count="14">bubble</word>
+	<phrase weight="0.005119453924914676" count="3">experimental studies experimental_studies</phrase>
+	<phrase weight="0.005119453924914676" count="3">experiments design_experiments</phrase>
+	<phrase weight="0.0034129692832764505" count="2">solar bed_solar</phrase>
+	<phrase weight="0.0034129692832764505" count="2">performance evaluation performance_evaluation</phrase>
+	<phrase weight="0.0034129692832764505" count="2">velocity_arc high_velocity_arc</phrase>
+	<phrase weight="0.0017064846416382253" count="1">minimal steel_minimal</phrase>
+	<phrase weight="0.0017064846416382253" count="1">impregnated_charcoal cloth charcoal_cloth impregnated_charcoal_cloth</phrase>
+	<phrase weight="0.0017064846416382253" count="1">indonesia_appraisal coals_indonesia_appraisal petrography appraisal_petrography indonesia_appraisal_petrography selected petrography_selected appraisal_petrography_selected coal</phrase>
+	<phrase weight="0.0017064846416382253" count="1">velocity slip_velocity</phrase>
+	<phrase weight="0.0017064846416382253" count="1">horizontal_wells_bottom water bottom_water wells_bottom_water reservoir</phrase>
+	<phrase weight="0.0017064846416382253" count="1">effects_initial investigation_effects_initial</phrase>
+	<phrase weight="0.0017064846416382253" count="1">steam gasification steam_gasification characteristics gasification_characteristics steam_gasification_characteristics</phrase>
+	<phrase weight="0.0017064846416382253" count="1">experiments modeling experiments_modeling studies modeling_studies experiments_modeling_studies specific studies_specific modeling_studies_specific wiebe specific_wiebe studies_specific_wiebe coefficients wiebe_coefficients specific_wiebe_coefficients producer coefficients_producer wiebe_coefficients_producer gas producer_gas coefficients_producer_gas fuel gas_fuel producer_gas_fuel spark fuel_spark gas_fuel_spark ignited</phrase>
+	<phrase weight="0.0017064846416382253" count="1">high parallel_high</phrase>
+	<phrase weight="0.0017064846416382253" count="1">solid thin_solid spread_thin_solid</phrase>
+	<phrase weight="0.0017064846416382253" count="1">estimation_critical velocity critical_velocity</phrase>
+	<phrase weight="0.0017064846416382253" count="1">heu na_heu</phrase>
+	<phrase weight="0.0017064846416382253" count="1">thermo_physical characterization_thermo_physical</phrase>
+	<phrase weight="0.0017064846416382253" count="1">ann ga ann_ga</phrase>
+	<phrase weight="0.0017064846416382253" count="1">ni_cr cr_ni_cr</phrase>
+  </topic>
+  <topic id="1" alpha="0.025583476824656205" totalTokens="9926" titles="based, control, system, power, systems, phase, performance, frequency, analysis, time">
+	<word weight="0.01007455168245013" count="100">based</word>
+	<word weight="0.00997380616562563" count="99">control</word>
+	<word weight="0.00997380616562563" count="99">system</word>
+	<word weight="0.009873060648801129" count="98">power</word>
+	<word weight="0.008664114446907113" count="86">systems</word>
+	<word weight="0.006044731009470079" count="60">phase</word>
+	<word weight="0.005943985492645578" count="59">performance</word>
+	<word weight="0.00533951239169857" count="53">frequency</word>
+	<word weight="0.004936530324400564" count="49">analysis</word>
+	<word weight="0.004332057223453556" count="43">time</word>
+	<word weight="0.004231311706629055" count="42">single</word>
+	<word weight="0.004231311706629055" count="42">energy</word>
+	<word weight="0.0038283296393310496" count="38">wind</word>
+	<word weight="0.0034253475720330447" count="34">design</word>
+	<word weight="0.0033246020552085433" count="33">controller</word>
+	<word weight="0.0033246020552085433" count="33">model</word>
+	<word weight="0.0033246020552085433" count="33">hybrid</word>
+	<word weight="0.003223856538384042" count="32">voltage</word>
+	<word weight="0.0030223655047350393" count="30">optimal</word>
+	<phrase weight="0.0028089887640449437" count="3">performance analysis performance_analysis</phrase>
+	<phrase weight="0.0018726591760299626" count="2">system refrigeration_system</phrase>
+	<phrase weight="0.0018726591760299626" count="2">performance enhancement</phrase>
+	<phrase weight="0.0018726591760299626" count="2">refrigeration absorption_refrigeration</phrase>
+	<phrase weight="0.0018726591760299626" count="2">improved performance improved_performance</phrase>
+	<phrase weight="0.0018726591760299626" count="2">output_orthogonal multiple_output_orthogonal frequency</phrase>
+	<phrase weight="0.0018726591760299626" count="2">allocation power_allocation</phrase>
+	<phrase weight="0.0018726591760299626" count="2">control tolerant_control</phrase>
+	<phrase weight="0.0018726591760299626" count="2">discrete_sliding mode</phrase>
+	<phrase weight="0.0018726591760299626" count="2">predictive model_predictive</phrase>
+	<phrase weight="0.0018726591760299626" count="2">discrete_sliding_mode control</phrase>
+	<phrase weight="0.0018726591760299626" count="2">level low_level</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">generalized predictive</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">denoc evolution_denoc based denoc_based</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">ensure_proportional_load sharing load_sharing proportional_load_sharing improve</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">tidal_fluctuation estimation_tidal_fluctuation</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">feedback synchronization</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">harmonic compensation harmonic_compensation sequence compensation_sequence</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">accelerating architecture_accelerating</phrase>
+	<phrase weight="9.363295880149813E-4" count="1">sum_filter_nonlinear dynamic nonlinear_dynamic filter_nonlinear_dynamic system dynamic_system</phrase>
+  </topic>
+  <topic id="2" alpha="0.00820002625910034" totalTokens="3382" titles="effect, model, system, composition, range, ratio, effects, parts, stage, measurements">
+	<word weight="0.00384387936132466" count="13">effect</word>
+	<word weight="0.00384387936132466" count="13">model</word>
+	<word weight="0.003252513305736251" count="11">system</word>
+	<word weight="0.003252513305736251" count="11">composition</word>
+	<word weight="0.0029568302779420462" count="10">range</word>
+	<word weight="0.0029568302779420462" count="10">ratio</word>
+	<word weight="0.0029568302779420462" count="10">effects</word>
+	<word weight="0.0026611472501478417" count="9">parts</word>
+	<word weight="0.0026611472501478417" count="9">stage</word>
+	<word weight="0.002365464222353637" count="8">measurements</word>
+	<word weight="0.002365464222353637" count="8">approach</word>
+	<word weight="0.0020697811945594325" count="7">prey</word>
+	<word weight="0.0020697811945594325" count="7">rate</word>
+	<word weight="0.0020697811945594325" count="7">forward</word>
+	<word weight="0.0020697811945594325" count="7">dynamic</word>
+	<word weight="0.0020697811945594325" count="7">field</word>
+	<word weight="0.0020697811945594325" count="7">hybrid</word>
+	<word weight="0.0020697811945594325" count="7">high</word>
+	<word weight="0.0017740981667652277" count="6">predator</word>
+	<phrase weight="0.005208333333333333" count="2">zone root_zone</phrase>
+	<phrase weight="0.005208333333333333" count="2">values metal_values</phrase>
+	<phrase weight="0.0026041666666666665" count="1">interval_yield harvesting_interval_yield</phrase>
+	<phrase weight="0.0026041666666666665" count="1">feature file_feature step_file_feature</phrase>
+	<phrase weight="0.0026041666666666665" count="1">lane_rural curves_lane_rural</phrase>
+	<phrase weight="0.0026041666666666665" count="1">solid_rotors beam_solid_rotors stiffening rotors_stiffening solid_rotors_stiffening</phrase>
+	<phrase weight="0.0026041666666666665" count="1">target pure_target vis_pure_target</phrase>
+	<phrase weight="0.0026041666666666665" count="1">thousand parts_thousand cuxo_parts_thousand currency thousand_currency parts_thousand_currency sign currency_sign thousand_currency_sign parts sign_parts currency_sign_parts thousand parts_thousand sign_parts_thousand currency thousand_currency parts_thousand_currency sign currency_sign thousand_currency_sign</phrase>
+	<phrase weight="0.0026041666666666665" count="1">thermoelectric_properties improved_thermoelectric_properties</phrase>
+	<phrase weight="0.0026041666666666665" count="1">multilayer propagation_multilayer</phrase>
+	<phrase weight="0.0026041666666666665" count="1">toxicity_ionic_liquids daphnia</phrase>
+	<phrase weight="0.0026041666666666665" count="1">probe scanning_probe</phrase>
+	<phrase weight="0.0026041666666666665" count="1">type_neural_networks unsupervised networks_unsupervised</phrase>
+	<phrase weight="0.0026041666666666665" count="1">stiffening_softening rotors_stiffening_softening effects</phrase>
+	<phrase weight="0.0026041666666666665" count="1">effects prey effects_prey refuge prey_refuge effects_prey_refuge ratio refuge_ratio prey_refuge_ratio</phrase>
+	<phrase weight="0.0026041666666666665" count="1">approach sludge_approach</phrase>
+	<phrase weight="0.0026041666666666665" count="1">hyperspectral selection_hyperspectral narrowbands hyperspectral_narrowbands selection_hyperspectral_narrowbands hnbs narrowbands_hnbs hyperspectral_narrowbands_hnbs composition hnbs_composition narrowbands_hnbs_composition hyperspectral composition_hyperspectral hnbs_composition_hyperspectral twoband hyperspectral_twoband composition_hyperspectral_twoband vegetation twoband_vegetation hyperspectral_twoband_vegetation indices vegetation_indices twoband_vegetation_indices hvis indices_hvis vegetation_indices_hvis biophysical hvis_biophysical indices_hvis_biophysical characterization biophysical_characterization hvis_biophysical_characterization discrimination characterization_discrimination biophysical_characterization_discrimination crop discrimination_crop characterization_discrimination_crop</phrase>
+	<phrase weight="0.0026041666666666665" count="1">dynamic perspective_dynamic filtering_perspective_dynamic feature dynamic_feature perspective_dynamic_feature</phrase>
+	<phrase weight="0.0026041666666666665" count="1">design large design_large dynamic large_dynamic design_large_dynamic range dynamic_range large_dynamic_range</phrase>
+	<phrase weight="0.0026041666666666665" count="1">altitude_tests high_altitude_tests large tests_large altitude_tests_large</phrase>
+  </topic>
+  <topic id="3" alpha="0.013750293807526213" totalTokens="6535" titles="india, water, study, case, indian, assessment, management, analysis, chain, case_study">
+	<word weight="0.01423106350420811" count="93">india</word>
+	<word weight="0.006579954093343535" count="43">water</word>
+	<word weight="0.00612088752869166" count="40">study</word>
+	<word weight="0.0050497322111706195" count="33">case</word>
+	<word weight="0.0050497322111706195" count="33">indian</word>
+	<word weight="0.004896710022953328" count="32">assessment</word>
+	<word weight="0.004743687834736037" count="31">management</word>
+	<word weight="0.0038255547054322878" count="25">analysis</word>
+	<word weight="0.003672532517214996" count="24">chain</word>
+	<word weight="0.0035195103289977045" count="23">case_study</word>
+	<word weight="0.0033664881407804133" count="22">supply</word>
+	<word weight="0.00306044376434583" count="20">supply_chain</word>
+	<word weight="0.0027543993879112472" count="18">modeling</word>
+	<word weight="0.0027543993879112472" count="18">model</word>
+	<word weight="0.002448355011476664" count="16">approach</word>
+	<word weight="0.0022953328232593728" count="15">risk</word>
+	<word weight="0.002142310635042081" count="14">groundwater</word>
+	<word weight="0.002142310635042081" count="14">quality</word>
+	<word weight="0.002142310635042081" count="14">bengal</word>
+	<phrase weight="0.006191950464396285" count="4">study case_study</phrase>
+	<phrase weight="0.0030959752321981426" count="2">chain_model supply_chain_model</phrase>
+	<phrase weight="0.0015479876160990713" count="1">disease control disease_control food control_food disease_control_food chain food_chain control_food_chain model chain_model food_chain_model</phrase>
+	<phrase weight="0.0015479876160990713" count="1">incentive issues incentive_issues</phrase>
+	<phrase weight="0.0015479876160990713" count="1">evaluation current evaluation_current status current_status evaluation_current_status future status_future current_status_future</phrase>
+	<phrase weight="0.0015479876160990713" count="1">bengal bay_bengal</phrase>
+	<phrase weight="0.0015479876160990713" count="1">temporal distribution temporal_distribution dissolved distribution_dissolved</phrase>
+	<phrase weight="0.0015479876160990713" count="1">transfer_protein ester_transfer_protein inhibitors protein_inhibitors transfer_protein_inhibitors coronary inhibitors_coronary</phrase>
+	<phrase weight="0.0015479876160990713" count="1">pollution_micro air_pollution_micro</phrase>
+	<phrase weight="0.0015479876160990713" count="1">sea_surface intensities_sea_surface</phrase>
+	<phrase weight="0.0015479876160990713" count="1">uk_defence contracts_uk_defence</phrase>
+	<phrase weight="0.0015479876160990713" count="1">neotectonic_setting delineating_neotectonic_setting shallow setting_shallow neotectonic_setting_shallow</phrase>
+	<phrase weight="0.0015479876160990713" count="1">maintenance_multi opportunistic_maintenance_multi component</phrase>
+	<phrase weight="0.0015479876160990713" count="1">area_frequency intensity_area_frequency curves frequency_curves</phrase>
+	<phrase weight="0.0015479876160990713" count="1">validated_spectophotometric methods</phrase>
+	<phrase weight="0.0015479876160990713" count="1">relational associative_relational impact relational_impact associative_relational_impact water impact_water relational_impact_water quality water_quality impact_water_quality crop quality_crop water_quality_crop yield crop_yield quality_crop_yield</phrase>
+	<phrase weight="0.0015479876160990713" count="1">cases insights_cases</phrase>
+	<phrase weight="0.0015479876160990713" count="1">remote sensing remote_sensing gis sensing_gis remote_sensing_gis</phrase>
+	<phrase weight="0.0015479876160990713" count="1">fusion research</phrase>
+	<phrase weight="0.0015479876160990713" count="1">emps_minimizing_impact climate impact_climate minimizing_impact_climate change climate_change impact_climate_change watershed change_watershed climate_change_watershed</phrase>
+  </topic>
+  <topic id="4" alpha="0.012533296766352894" totalTokens="5678" titles="acid, catalyst, corrosion, kinetics, oxidation, hydrogen, medium, steel, catalytic, supported">
+	<word weight="0.012504402958788305" count="71">acid</word>
+	<word weight="0.008277562522014795" count="47">catalyst</word>
+	<word weight="0.007220852412821416" count="41">corrosion</word>
+	<word weight="0.0063402606551602675" count="36">kinetics</word>
+	<word weight="0.0051074321944346605" count="29">oxidation</word>
+	<word weight="0.004579077139837971" count="26">hydrogen</word>
+	<word weight="0.004579077139837971" count="26">medium</word>
+	<word weight="0.004402958788305741" count="25">steel</word>
+	<word weight="0.004226840436773511" count="24">catalytic</word>
+	<word weight="0.0038746037337090526" count="22">supported</word>
+	<word weight="0.003698485382176823" count="21">mild</word>
+	<word weight="0.003522367030644593" count="20">mild_steel</word>
+	<word weight="0.003522367030644593" count="20">synthesis</word>
+	<word weight="0.0033462486791123636" count="19">green</word>
+	<word weight="0.0029940119760479044" count="17">reaction</word>
+	<word weight="0.0029940119760479044" count="17">aqueous</word>
+	<word weight="0.0028178936245156746" count="16">iron</word>
+	<word weight="0.0028178936245156746" count="16">production</word>
+	<word weight="0.0026417752729834447" count="15">solid</word>
+	<phrase weight="0.0032679738562091504" count="2">acid solid_acid</phrase>
+	<phrase weight="0.0032679738562091504" count="2">steel mild_steel</phrase>
+	<phrase weight="0.0016339869281045752" count="1">acids_esterification_catalytic activity catalytic_activity esterification_catalytic_activity sulphated activity_sulphated catalytic_activity_sulphated zro sulphated_zro activity_sulphated_zro tio zro_tio</phrase>
+	<phrase weight="0.0016339869281045752" count="1">corrosion acid_corrosion effective_acid_corrosion inhibitor corrosion_inhibitor</phrase>
+	<phrase weight="0.0016339869281045752" count="1">behavior_fretted_grade mild</phrase>
+	<phrase weight="0.0016339869281045752" count="1">bifunctional catalytic bifunctional_catalytic activity catalytic_activity bifunctional_catalytic_activity tungstophosphoric activity_tungstophosphoric catalytic_activity_tungstophosphoric acid tungstophosphoric_acid activity_tungstophosphoric_acid impregnated acid_impregnated tungstophosphoric_acid_impregnated supports impregnated_supports acid_impregnated_supports esterification supports_esterification impregnated_supports_esterification oxidation esterification_oxidation supports_esterification_oxidation benzyl oxidation_benzyl esterification_oxidation_benzyl alcohol benzyl_alcohol oxidation_benzyl_alcohol comparative alcohol_comparative benzyl_alcohol_comparative study</phrase>
+	<phrase weight="0.0016339869281045752" count="1">development green development_green</phrase>
+	<phrase weight="0.0016339869281045752" count="1">chlorinated destruction_chlorinated organics chlorinated_organics</phrase>
+	<phrase weight="0.0016339869281045752" count="1">induced_advanced_oxidation mineralization</phrase>
+	<phrase weight="0.0016339869281045752" count="1">copper_nanographite processed_copper_nanographite</phrase>
+	<phrase weight="0.0016339869281045752" count="1">free_selective_oxidation benzyl oxidation_benzyl selective_oxidation_benzyl alcohol benzyl_alcohol oxidation_benzyl_alcohol benzaldehyde alcohol_benzaldehyde benzyl_alcohol_benzaldehyde reactor</phrase>
+	<phrase weight="0.0016339869281045752" count="1">hydrogen synthesized_hydrogen composite_synthesized_hydrogen reduction</phrase>
+	<phrase weight="0.0016339869281045752" count="1">energy_binding cb_energy_binding</phrase>
+	<phrase weight="0.0016339869281045752" count="1">indole acetic</phrase>
+	<phrase weight="0.0016339869281045752" count="1">vitreous_humor_transpupillary thermotherapy transpupillary_thermotherapy humor_transpupillary_thermotherapy</phrase>
+	<phrase weight="0.0016339869281045752" count="1">quantum experimental_quantum chemical quantum_chemical experimental_quantum_chemical studies chemical_studies quantum_chemical_studies corrosion studies_corrosion chemical_studies_corrosion inhibition corrosion_inhibition studies_corrosion_inhibition effect inhibition_effect corrosion_inhibition_effect</phrase>
+	<phrase weight="0.0016339869281045752" count="1">bench_scale_batch bioleaching batch_bioleaching</phrase>
+	<phrase weight="0.0016339869281045752" count="1">chloride molten_chloride</phrase>
+	<phrase weight="0.0016339869281045752" count="1">optimization taguchi_optimization</phrase>
+	<phrase weight="0.0016339869281045752" count="1">synthesis_equimolar_pd ru</phrase>
+  </topic>
+  <topic id="5" alpha="0.009129500556475708" totalTokens="3839" titles="production, beta, characterization, sp, scale, bacillus, large, strain, process, degradation">
+	<word weight="0.00937744204219849" count="36">production</word>
+	<word weight="0.006772597030476686" count="26">beta</word>
+	<word weight="0.006512112529304506" count="25">characterization</word>
+	<word weight="0.0057306590257879654" count="22">sp</word>
+	<word weight="0.0057306590257879654" count="22">scale</word>
+	<word weight="0.004688721021099245" count="18">bacillus</word>
+	<word weight="0.003907267517582704" count="15">large</word>
+	<word weight="0.0036467830164105238" count="14">strain</word>
+	<word weight="0.0036467830164105238" count="14">process</word>
+	<word weight="0.003386298515238343" count="13">degradation</word>
+	<word weight="0.003125814014066163" count="12">alpha</word>
+	<word weight="0.0028653295128939827" count="11">marine</word>
+	<word weight="0.0028653295128939827" count="11">application</word>
+	<word weight="0.0026048450117218025" count="10">purification</word>
+	<word weight="0.0026048450117218025" count="10">large_scale</word>
+	<word weight="0.0026048450117218025" count="10">biodegradation</word>
+	<word weight="0.0026048450117218025" count="10">optimization</word>
+	<word weight="0.0023443605105496223" count="9">isolated</word>
+	<word weight="0.0023443605105496223" count="9">solid</word>
+	<phrase weight="0.004651162790697674" count="2">state solid_state</phrase>
+	<phrase weight="0.002325581395348837" count="1">study_understand mellitus_study_understand ulcer</phrase>
+	<phrase weight="0.002325581395348837" count="1">duration_variations short_duration_variations</phrase>
+	<phrase weight="0.002325581395348837" count="1">carotene beta_carotene</phrase>
+	<phrase weight="0.002325581395348837" count="1">drum rotary_drum metals_rotary_drum composting drum_composting rotary_drum_composting</phrase>
+	<phrase weight="0.002325581395348837" count="1">green_synthesis_chloromethyl dioxolanes</phrase>
+	<phrase weight="0.002325581395348837" count="1">ghats western_ghats</phrase>
+	<phrase weight="0.002325581395348837" count="1">soil_index mine_soil_index rmsi index_rmsi</phrase>
+	<phrase weight="0.002325581395348837" count="1">smooth_muscle_actin induction actin_induction muscle_actin_induction myofibroblast induction_myofibroblast actin_induction_myofibroblast formation myofibroblast_formation induction_myofibroblast_formation silicone formation_silicone myofibroblast_formation_silicone</phrase>
+	<phrase weight="0.002325581395348837" count="1">reactor_operations_production marine</phrase>
+	<phrase weight="0.002325581395348837" count="1">scale_seismically_detailed rc detailed_rc</phrase>
+	<phrase weight="0.002325581395348837" count="1">low_ph wastewater_low_ph</phrase>
+	<phrase weight="0.002325581395348837" count="1">achieving_haptic perception haptic_perception achieving_haptic_perception</phrase>
+	<phrase weight="0.002325581395348837" count="1">mine_soil reclaimed_mine_soil</phrase>
+	<phrase weight="0.002325581395348837" count="1">methodology_optimally design_methodology_optimally</phrase>
+	<phrase weight="0.002325581395348837" count="1">fermentation stage_fermentation process</phrase>
+	<phrase weight="0.002325581395348837" count="1">rating_vertical method_rating_vertical sluice vertical_sluice rating_vertical_sluice gates sluice_gates</phrase>
+	<phrase weight="0.002325581395348837" count="1">de quenching</phrase>
+	<phrase weight="0.002325581395348837" count="1">characterization_polyhydroxyalkanoates_accumulating vibrio</phrase>
+	<phrase weight="0.002325581395348837" count="1">antioxidant stress_antioxidant</phrase>
+  </topic>
+  <topic id="6" alpha="0.01439452916616058" totalTokens="6233" titles="analysis, method, finite, order, composite, vibration, plates, element, free, finite_element">
+	<word weight="0.011551419862024707" count="72">analysis</word>
+	<word weight="0.00866356489651853" count="54">method</word>
+	<word weight="0.007540510187710573" count="47">finite</word>
+	<word weight="0.007540510187710573" count="47">order</word>
+	<word weight="0.006417455478902615" count="40">composite</word>
+	<word weight="0.0062570190919300495" count="39">vibration</word>
+	<word weight="0.005294400770094658" count="33">plates</word>
+	<word weight="0.005133964383122092" count="32">element</word>
+	<word weight="0.004492218835231831" count="28">free</word>
+	<word weight="0.004331782448259265" count="27">finite_element</word>
+	<word weight="0.004331782448259265" count="27">nonlinear</word>
+	<word weight="0.0041713460612867" count="26">dynamic</word>
+	<word weight="0.003529600513396438" count="22">beams</word>
+	<word weight="0.003529600513396438" count="22">fractional</word>
+	<word weight="0.003369164126423873" count="21">laminated</word>
+	<word weight="0.003369164126423873" count="21">shear</word>
+	<word weight="0.003369164126423873" count="21">response</word>
+	<word weight="0.0032087277394513077" count="20">differential</word>
+	<word weight="0.0030482913524787422" count="19">equations</word>
+	<phrase weight="0.005454545454545455" count="3">finite element finite_element</phrase>
+	<phrase weight="0.005454545454545455" count="3">element finite_element</phrase>
+	<phrase weight="0.005454545454545455" count="3">order reduced_order</phrase>
+	<phrase weight="0.005454545454545455" count="3">order fractional_order</phrase>
+	<phrase weight="0.0036363636363636364" count="2">form closed_form</phrase>
+	<phrase weight="0.0036363636363636364" count="2">phase_high reversed_phase_high</phrase>
+	<phrase weight="0.0036363636363636364" count="2">homogenous_functionally filled_homogenous_functionally graded functionally_graded</phrase>
+	<phrase weight="0.0018181818181818182" count="1">simultaneous identification simultaneous_identification</phrase>
+	<phrase weight="0.0018181818181818182" count="1">fracture_parameters determination_fracture_parameters</phrase>
+	<phrase weight="0.0018181818181818182" count="1">stiffness finite stiffness_finite sand</phrase>
+	<phrase weight="0.0018181818181818182" count="1">hollow_steel_pile layered</phrase>
+	<phrase weight="0.0018181818181818182" count="1">order_model reduced_order_model damping</phrase>
+	<phrase weight="0.0018181818181818182" count="1">damping_layers constrained_damping_layers</phrase>
+	<phrase weight="0.0018181818181818182" count="1">order_systems fractional_order_systems</phrase>
+	<phrase weight="0.0018181818181818182" count="1">undrained_shear_behavior sand</phrase>
+	<phrase weight="0.0018181818181818182" count="1">plate_connections_finite element finite_element</phrase>
+	<phrase weight="0.0018181818181818182" count="1">torsional wave</phrase>
+	<phrase weight="0.0018181818181818182" count="1">problems transfer_problems</phrase>
+	<phrase weight="0.0018181818181818182" count="1">technique_treating pade_technique_treating linear treating_linear technique_treating_linear singular linear_singular treating_linear_singular boundary singular_boundary linear_singular_boundary problems boundary_problems</phrase>
+	<phrase weight="0.0018181818181818182" count="1">model analytical_model</phrase>
+  </topic>
+  <topic id="7" alpha="0.010056011880457382" totalTokens="5402" titles="poly, characterization, synthesis, acid, delivery, development, polymer, properties, evaluation, vitro">
+	<word weight="0.00777489818585709" count="42">poly</word>
+	<word weight="0.006108848574601999" count="33">characterization</word>
+	<word weight="0.004627915586819697" count="25">synthesis</word>
+	<word weight="0.004257682339874121" count="23">acid</word>
+	<word weight="0.004257682339874121" count="23">delivery</word>
+	<word weight="0.004257682339874121" count="23">development</word>
+	<word weight="0.004072565716401333" count="22">polymer</word>
+	<word weight="0.004072565716401333" count="22">properties</word>
+	<word weight="0.003887449092928545" count="21">evaluation</word>
+	<word weight="0.0037023324694557573" count="20">vitro</word>
+	<word weight="0.003517215845982969" count="19">alcohol</word>
+	<word weight="0.0033320992225101815" count="18">drug</word>
+	<word weight="0.0033320992225101815" count="18">based</word>
+	<word weight="0.0031469825990373935" count="17">release</word>
+	<word weight="0.0031469825990373935" count="17">vinyl</word>
+	<word weight="0.0031469825990373935" count="17">water</word>
+	<word weight="0.002961865975564606" count="16">methacrylate</word>
+	<word weight="0.002961865975564606" count="16">mechanical</word>
+	<word weight="0.0027767493520918177" count="15">controlled</word>
+	<phrase weight="0.004032258064516129" count="2">shell core_shell</phrase>
+	<phrase weight="0.004032258064516129" count="2">alcohol polyvinyl_alcohol</phrase>
+	<phrase weight="0.004032258064516129" count="2">synthesis characterization synthesis_characterization</phrase>
+	<phrase weight="0.0020161290322580645" count="1">development characterization development_characterization polymer characterization_polymer</phrase>
+	<phrase weight="0.0020161290322580645" count="1">development_pervaporation_membranes sodium</phrase>
+	<phrase weight="0.0020161290322580645" count="1">features_fe multifunctional_features_fe</phrase>
+	<phrase weight="0.0020161290322580645" count="1">physical molecules_physical chlorophenol_molecules_physical selectivity physical_selectivity</phrase>
+	<phrase weight="0.0020161290322580645" count="1">potential_solid_lubricants short lubricants_short solid_lubricants_short</phrase>
+	<phrase weight="0.0020161290322580645" count="1">gelled_mucoadhesive_beads oral beads_oral mucoadhesive_beads_oral metformin oral_metformin beads_oral_metformin hcl metformin_hcl oral_metformin_hcl delivery hcl_delivery metformin_hcl_delivery formulation delivery_formulation hcl_delivery_formulation optimization formulation_optimization</phrase>
+	<phrase weight="0.0020161290322580645" count="1">methacrylate_cellulose polymethyl_methacrylate_cellulose acetate cellulose_acetate</phrase>
+	<phrase weight="0.0020161290322580645" count="1">fiber banana_fiber</phrase>
+	<phrase weight="0.0020161290322580645" count="1">thermal_properties properties_thermal_properties jute</phrase>
+	<phrase weight="0.0020161290322580645" count="1">synthesis characterization synthesis_characterization ph characterization_ph synthesis_characterization_ph responsive ph_responsive characterization_ph_responsive</phrase>
+	<phrase weight="0.0020161290322580645" count="1">polyelectrolyte_silver nanocomposite silver_nanocomposite polyelectrolyte_silver_nanocomposite multilayer nanocomposite_multilayer</phrase>
+	<phrase weight="0.0020161290322580645" count="1">delivery oral_delivery simultaneous_oral_delivery</phrase>
+	<phrase weight="0.0020161290322580645" count="1">membranes stretched_membranes</phrase>
+	<phrase weight="0.0020161290322580645" count="1">polymeric_submicron_carriers sparingly</phrase>
+	<phrase weight="0.0020161290322580645" count="1">characterization_hybrid_membranes chitosan membranes_chitosan hybrid_membranes_chitosan epoxycyclohexyl</phrase>
+	<phrase weight="0.0020161290322580645" count="1">density_polyethylene_blends mechanical</phrase>
+	<phrase weight="0.0020161290322580645" count="1">synthesis characterization synthesis_characterization hybrid characterization_hybrid</phrase>
+  </topic>
+  <topic id="8" alpha="0.009205653786344744" totalTokens="3774" titles="mo, tensile, stress, steel, cr_mo, strain, distillation, mo_steel, behaviour, analysis">
+	<word weight="0.006359300476947536" count="24">mo</word>
+	<word weight="0.006094329623741388" count="23">tensile</word>
+	<word weight="0.005564387917329093" count="21">stress</word>
+	<word weight="0.005299417064122946" count="20">steel</word>
+	<word weight="0.005034446210916799" count="19">cr_mo</word>
+	<word weight="0.0047694753577106515" count="18">strain</word>
+	<word weight="0.0045045045045045045" count="17">cr</word>
+	<word weight="0.0037095919448860626" count="14">distillation</word>
+	<word weight="0.003444621091679915" count="13">mo_steel</word>
+	<word weight="0.003444621091679915" count="13">behaviour</word>
+	<word weight="0.003444621091679915" count="13">analysis</word>
+	<word weight="0.003179650238473768" count="12">cr_mo_steel</word>
+	<word weight="0.003179650238473768" count="12">tube</word>
+	<word weight="0.003179650238473768" count="12">application</word>
+	<word weight="0.003179650238473768" count="12">pulse</word>
+	<word weight="0.003179650238473768" count="12">approach</word>
+	<word weight="0.003179650238473768" count="12">behavior</word>
+	<word weight="0.002649708532061473" count="10">creep</word>
+	<word weight="0.002649708532061473" count="10">modified</word>
+	<phrase weight="0.0047169811320754715" count="2">external_tool plate_external_tool</phrase>
+	<phrase weight="0.0047169811320754715" count="2">temperature high_temperature</phrase>
+	<phrase weight="0.0047169811320754715" count="2">distillation reactive_distillation</phrase>
+	<phrase weight="0.0047169811320754715" count="2">mo cr_mo</phrase>
+	<phrase weight="0.0023584905660377358" count="1">strain_soils_fe assessment</phrase>
+	<phrase weight="0.0023584905660377358" count="1">cow_alloys electrodeposited_cow_alloys cow alloys_cow cow_alloys_cow</phrase>
+	<phrase weight="0.0023584905660377358" count="1">vibration_patients synchronized_vibration_patients parkinson</phrase>
+	<phrase weight="0.0023584905660377358" count="1">demographic_factors relationships_demographic_factors</phrase>
+	<phrase weight="0.0023584905660377358" count="1">reactive intracellular_reactive oxidative</phrase>
+	<phrase weight="0.0023584905660377358" count="1">electronic_structure_half metallic half_metallic structure_half_metallic</phrase>
+	<phrase weight="0.0023584905660377358" count="1">sensitivity_analysis_statistical process</phrase>
+	<phrase weight="0.0023584905660377358" count="1">mechanical_properties_modified cr modified_cr</phrase>
+	<phrase weight="0.0023584905660377358" count="1">intensified thermal intensified_thermal integration thermal_integration intensified_thermal_integration batch integration_batch</phrase>
+	<phrase weight="0.0023584905660377358" count="1">flow_inside turbulent_flow_inside</phrase>
+	<phrase weight="0.0023584905660377358" count="1">temperature_corrosion high_temperature_corrosion behavior corrosion_behavior temperature_corrosion_behavior</phrase>
+	<phrase weight="0.0023584905660377358" count="1">oxidative stress oxidative_stress lipid stress_lipid oxidative_stress_lipid profile lipid_profile stress_lipid_profile copd profile_copd lipid_profile_copd patients copd_patients profile_copd_patients beneficial patients_beneficial copd_patients_beneficial</phrase>
+	<phrase weight="0.0023584905660377358" count="1">generating deconverter_generating punjabi_deconverter_generating punjabi generating_punjabi</phrase>
+	<phrase weight="0.0023584905660377358" count="1">primary_coolant transport_primary_coolant</phrase>
+	<phrase weight="0.0023584905660377358" count="1">angular_particle rounded_angular_particle</phrase>
+	<phrase weight="0.0023584905660377358" count="1">selectivity engineering selectivity_engineering</phrase>
+  </topic>
+  <topic id="9" alpha="0.00839332939833591" totalTokens="3225" titles="system, fuzzy, gamma, modelling, delta, neuro_fuzzy, micro, full, aircraft, angle">
+	<word weight="0.00496124031007752" count="16">system</word>
+	<word weight="0.004341085271317829" count="14">fuzzy</word>
+	<word weight="0.0037209302325581397" count="12">gamma</word>
+	<word weight="0.0034108527131782944" count="11">modelling</word>
+	<word weight="0.0031007751937984496" count="10">delta</word>
+	<word weight="0.0027906976744186047" count="9">neuro_fuzzy</word>
+	<word weight="0.0027906976744186047" count="9">neuro</word>
+	<word weight="0.0027906976744186047" count="9">micro</word>
+	<word weight="0.0027906976744186047" count="9">full</word>
+	<word weight="0.00248062015503876" count="8">aircraft</word>
+	<word weight="0.00248062015503876" count="8">angle</word>
+	<word weight="0.00248062015503876" count="8">amplifier</word>
+	<word weight="0.00248062015503876" count="8">optical</word>
+	<word weight="0.0021705426356589145" count="7">quality</word>
+	<word weight="0.0021705426356589145" count="7">improved</word>
+	<word weight="0.0018604651162790699" count="6">inference</word>
+	<word weight="0.0018604651162790699" count="6">crosstalk</word>
+	<word weight="0.0018604651162790699" count="6">raman</word>
+	<word weight="0.0018604651162790699" count="6">continuous</word>
+	<phrase weight="0.004901960784313725" count="2">mathematical modelling mathematical_modelling</phrase>
+	<phrase weight="0.0024509803921568627" count="1">influence word influence_word length word_length influence_word_length</phrase>
+	<phrase weight="0.0024509803921568627" count="1">sideways weight_sideways body_weight_sideways</phrase>
+	<phrase weight="0.0024509803921568627" count="1">unsharp_masking quadratic masking_quadratic</phrase>
+	<phrase weight="0.0024509803921568627" count="1">wave_active tunable_wave_active</phrase>
+	<phrase weight="0.0024509803921568627" count="1">power_nonlinear input_power_nonlinear crosstalk nonlinear_crosstalk power_nonlinear_crosstalk induced crosstalk_induced</phrase>
+	<phrase weight="0.0024509803921568627" count="1">coronary_venous variance_coronary_venous anatomy venous_anatomy coronary_venous_anatomy critical</phrase>
+	<phrase weight="0.0024509803921568627" count="1">op characteristic_op thermistor_characteristic_op amp</phrase>
+	<phrase weight="0.0024509803921568627" count="1">raman_edfa_hybrid optical hybrid_optical edfa_hybrid_optical amplifier optical_amplifier</phrase>
+	<phrase weight="0.0024509803921568627" count="1">fingerprints_noisy enhancement_fingerprints_noisy</phrase>
+	<phrase weight="0.0024509803921568627" count="1">measurements_large transfer_measurements_large angle large_angle measurements_large_angle</phrase>
+	<phrase weight="0.0024509803921568627" count="1">adaptive_immune innate_adaptive_immune responses immune_responses adaptive_immune_responses</phrase>
+	<phrase weight="0.0024509803921568627" count="1">sensitive_performance load_sensitive_performance micro performance_micro sensitive_performance_micro face micro_face</phrase>
+	<phrase weight="0.0024509803921568627" count="1">saturated_homogeneous migration_saturated_homogeneous soil homogeneous_soil saturated_homogeneous_soil</phrase>
+	<phrase weight="0.0024509803921568627" count="1">electrode_specific investigation_electrode_specific</phrase>
+	<phrase weight="0.0024509803921568627" count="1">bearing_faults classification_bearing_faults morphological faults_morphological bearing_faults_morphological operators morphological_operators faults_morphological_operators</phrase>
+	<phrase weight="0.0024509803921568627" count="1">edm measures_edm</phrase>
+	<phrase weight="0.0024509803921568627" count="1">saturable_nonlinear class_saturable_nonlinear responses nonlinear_responses saturable_nonlinear_responses</phrase>
+	<phrase weight="0.0024509803921568627" count="1">ni_ii_ii gamma</phrase>
+	<phrase weight="0.0024509803921568627" count="1">degenerated inductive_degenerated exploration_inductive_degenerated common degenerated_common inductive_degenerated_common</phrase>
+  </topic>
+  <topic id="10" alpha="0.011663697395072435" totalTokens="4391" titles="surface, response, process, optimization, methodology, response_surface, parameters, response_surface_methodology, process_parameters, model">
+	<word weight="0.01616943748576634" count="71">surface</word>
+	<word weight="0.01343657481211569" count="59">response</word>
+	<word weight="0.01275335914370303" count="56">process</word>
+	<word weight="0.010248235026189934" count="45">optimization</word>
+	<word weight="0.009337280801639718" count="41">methodology</word>
+	<word weight="0.0084263265770895" count="37">response_surface</word>
+	<word weight="0.007743110908676839" count="34">parameters</word>
+	<word weight="0.007059895240264177" count="31">response_surface_methodology</word>
+	<word weight="0.007059895240264177" count="31">surface_methodology</word>
+	<word weight="0.004782509678888636" count="21">process_parameters</word>
+	<word weight="0.0038715554543384194" count="17">model</word>
+	<word weight="0.0031883397859257573" count="14">micro</word>
+	<word weight="0.0031883397859257573" count="14">application</word>
+	<word weight="0.0031883397859257573" count="14">approach</word>
+	<word weight="0.0031883397859257573" count="14">analysis</word>
+	<word weight="0.002960601229788203" count="13">prediction</word>
+	<word weight="0.002732862673650649" count="12">optimization_process</word>
+	<word weight="0.002505124117513095" count="11">journal</word>
+	<word weight="0.002505124117513095" count="11">bearing</word>
+	<phrase weight="0.005535055350553505" count="3">optimization process optimization_process</phrase>
+	<phrase weight="0.0036900369003690036" count="2">aeruginosa pseudomonas_aeruginosa</phrase>
+	<phrase weight="0.0036900369003690036" count="2">process_parameters optimization_process_parameters</phrase>
+	<phrase weight="0.0036900369003690036" count="2">surface response_surface</phrase>
+	<phrase weight="0.0018450184501845018" count="1">photodynamic topical_photodynamic</phrase>
+	<phrase weight="0.0018450184501845018" count="1">operations milling_operations</phrase>
+	<phrase weight="0.0018450184501845018" count="1">production_nanoparticles variables_production_nanoparticles response nanoparticles_response</phrase>
+	<phrase weight="0.0018450184501845018" count="1">optimization_flexible_printed circuit printed_circuit flexible_printed_circuit board circuit_board printed_circuit_board electronics board_electronics circuit_board_electronics</phrase>
+	<phrase weight="0.0018450184501845018" count="1">ripple_patterned grown_ripple_patterned templates</phrase>
+	<phrase weight="0.0018450184501845018" count="1">model_annular fluid_model_annular</phrase>
+	<phrase weight="0.0018450184501845018" count="1">mathematical_modeling_reduction safranin</phrase>
+	<phrase weight="0.0018450184501845018" count="1">rate_overcut_electrochemical micromachining electrochemical_micromachining overcut_electrochemical_micromachining</phrase>
+	<phrase weight="0.0018450184501845018" count="1">methodology surface_methodology response_surface_methodology</phrase>
+	<phrase weight="0.0018450184501845018" count="1">process_parameters_clad quality clad_quality</phrase>
+	<phrase weight="0.0018450184501845018" count="1">surface localized_surface springs_localized_surface roughness surface_roughness</phrase>
+	<phrase weight="0.0018450184501845018" count="1">optimization medium optimization_medium response</phrase>
+	<phrase weight="0.0018450184501845018" count="1">current_noise electrochemical_current_noise</phrase>
+	<phrase weight="0.0018450184501845018" count="1">infected aeruginosa_infected</phrase>
+	<phrase weight="0.0018450184501845018" count="1">rates_emission consumption_rates_emission</phrase>
+	<phrase weight="0.0018450184501845018" count="1">gas_tungsten steel_gas_tungsten</phrase>
+  </topic>
+  <topic id="11" alpha="0.013316042538964795" totalTokens="5742" titles="steel, stainless, stainless_steel, effect, low, high, fatigue, laser, strength, crack">
+	<word weight="0.022640195053988156" count="130">steel</word>
+	<word weight="0.01044932079414838" count="60">stainless</word>
+	<word weight="0.010101010101010102" count="58">stainless_steel</word>
+	<word weight="0.006792058516196447" count="39">effect</word>
+	<word weight="0.005747126436781609" count="33">low</word>
+	<word weight="0.00557297109021247" count="32">high</word>
+	<word weight="0.005050505050505051" count="29">fatigue</word>
+	<word weight="0.004876349703935911" count="28">laser</word>
+	<word weight="0.004005572971090212" count="23">strength</word>
+	<word weight="0.0034831069313827935" count="20">crack</word>
+	<word weight="0.0034831069313827935" count="20">behavior</word>
+	<word weight="0.0033089515848136537" count="19">corrosion</word>
+	<word weight="0.0033089515848136537" count="19">investigation</word>
+	<word weight="0.0033089515848136537" count="19">properties</word>
+	<word weight="0.003134796238244514" count="18">high_strength</word>
+	<word weight="0.003134796238244514" count="18">grain</word>
+	<word weight="0.0029606408916753742" count="17">austenitic</word>
+	<word weight="0.0029606408916753742" count="17">microstructure</word>
+	<word weight="0.0029606408916753742" count="17">behaviour</word>
+	<phrase weight="0.006700167504187605" count="4">steel stainless_steel</phrase>
+	<phrase weight="0.005025125628140704" count="3">strength high_strength</phrase>
+	<phrase weight="0.0016750418760469012" count="1">generalized_synchronization_experimental perspective</phrase>
+	<phrase weight="0.0016750418760469012" count="1">microstructured toluene_microstructured disproportionation_toluene_microstructured</phrase>
+	<phrase weight="0.0016750418760469012" count="1">stainless_steel_rail coach</phrase>
+	<phrase weight="0.0016750418760469012" count="1">failure_pressure stresses_failure_pressure cylindrical</phrase>
+	<phrase weight="0.0016750418760469012" count="1">copper_added_sus austenitic sus_austenitic added_sus_austenitic steels</phrase>
+	<phrase weight="0.0016750418760469012" count="1">flux_plasma heat_flux_plasma</phrase>
+	<phrase weight="0.0016750418760469012" count="1">carbon_garment low_carbon_garment</phrase>
+	<phrase weight="0.0016750418760469012" count="1">crack growth crack_growth behavior</phrase>
+	<phrase weight="0.0016750418760469012" count="1">alumina_water conductivity_alumina_water</phrase>
+	<phrase weight="0.0016750418760469012" count="1">influence_dynamic strain dynamic_strain influence_dynamic_strain aging strain_aging dynamic_strain_aging deformation aging_deformation strain_aging_deformation behavior</phrase>
+	<phrase weight="0.0016750418760469012" count="1">fatigue creep_fatigue influence_creep_fatigue commercially fatigue_commercially creep_fatigue_commercially pure commercially_pure fatigue_commercially_pure copper pure_copper commercially_pure_copper monotonic copper_monotonic pure_copper_monotonic cyclic monotonic_cyclic copper_monotonic_cyclic indentation cyclic_indentation</phrase>
+	<phrase weight="0.0016750418760469012" count="1">development multiphase development_multiphase microstructure multiphase_microstructure development_multiphase_microstructure bainite microstructure_bainite multiphase_microstructure_bainite martensite</phrase>
+	<phrase weight="0.0016750418760469012" count="1">high safety_high increased_safety_high tension high_tension</phrase>
+	<phrase weight="0.0016750418760469012" count="1">microchanneling_polymethyl_methacrylate submerged methacrylate_submerged</phrase>
+	<phrase weight="0.0016750418760469012" count="1">martensite kinetics_martensite</phrase>
+	<phrase weight="0.0016750418760469012" count="1">microstructure_microhardness density_microstructure_microhardness</phrase>
+	<phrase weight="0.0016750418760469012" count="1">channel equal_channel</phrase>
+	<phrase weight="0.0016750418760469012" count="1">crack_propagation tensile_crack_propagation mushy</phrase>
+  </topic>
+  <topic id="12" alpha="0.008546367294655906" totalTokens="3193" titles="production, fly_ash, demand, model, inventory, policy, application, system, deteriorating, price">
+	<word weight="0.009395552771688067" count="30">production</word>
+	<word weight="0.009082367679298466" count="29">fly_ash</word>
+	<word weight="0.009082367679298466" count="29">ash</word>
+	<word weight="0.009082367679298466" count="29">fly</word>
+	<word weight="0.006890072032571249" count="22">demand</word>
+	<word weight="0.005950516755402443" count="19">model</word>
+	<word weight="0.005637331663012841" count="18">inventory</word>
+	<word weight="0.0034450360162856246" count="11">policy</word>
+	<word weight="0.0034450360162856246" count="11">application</word>
+	<word weight="0.0028186658315064203" count="9">system</word>
+	<word weight="0.002505480739116818" count="8">deteriorating</word>
+	<word weight="0.002505480739116818" count="8">price</word>
+	<word weight="0.002505480739116818" count="8">improved</word>
+	<word weight="0.002505480739116818" count="8">waste</word>
+	<word weight="0.002505480739116818" count="8">level</word>
+	<word weight="0.002505480739116818" count="8">mass</word>
+	<word weight="0.002192295646727216" count="7">inventory_model</word>
+	<word weight="0.002192295646727216" count="7">items</word>
+	<word weight="0.002192295646727216" count="7">agent</word>
+	<phrase weight="0.009732360097323601" count="4">ash fly_ash</phrase>
+	<phrase weight="0.004866180048661801" count="2">production inventory production_inventory model inventory_model production_inventory_model</phrase>
+	<phrase weight="0.0024330900243309003" count="1">heights_fall_spherical mass spherical_mass</phrase>
+	<phrase weight="0.0024330900243309003" count="1">modulations frequency_modulations</phrase>
+	<phrase weight="0.0024330900243309003" count="1">designing computing designing_computing optimal computing_optimal designing_computing_optimal policies optimal_policies computing_optimal_policies production policies_production optimal_policies_production model production_model policies_production_model instantaneous model_instantaneous production_model_instantaneous deteriorating instantaneous_deteriorating model_instantaneous_deteriorating items deteriorating_items instantaneous_deteriorating_items shortages items_shortages</phrase>
+	<phrase weight="0.0024330900243309003" count="1">mathematical model</phrase>
+	<phrase weight="0.0024330900243309003" count="1">textures nuclei_textures</phrase>
+	<phrase weight="0.0024330900243309003" count="1">surface_water_fungal enzyme</phrase>
+	<phrase weight="0.0024330900243309003" count="1">model_probabilistic inventory_model_probabilistic deterioration</phrase>
+	<phrase weight="0.0024330900243309003" count="1">phase_approach_operational decisions operational_decisions approach_operational_decisions</phrase>
+	<phrase weight="0.0024330900243309003" count="1">incentive economic_incentive</phrase>
+	<phrase weight="0.0024330900243309003" count="1">measures_control remedial_measures_control deterioration control_deterioration measures_control_deterioration</phrase>
+	<phrase weight="0.0024330900243309003" count="1">properties_copper engineering_properties_copper slag</phrase>
+	<phrase weight="0.0024330900243309003" count="1">binary harappan_binary</phrase>
+	<phrase weight="0.0024330900243309003" count="1">vendor_multi single_vendor_multi buyer multi_buyer vendor_multi_buyer</phrase>
+	<phrase weight="0.0024330900243309003" count="1">oxygen biological_oxygen cod_biological_oxygen demand oxygen_demand biological_oxygen_demand bod</phrase>
+	<phrase weight="0.0024330900243309003" count="1">slope_stability technique_slope_stability</phrase>
+	<phrase weight="0.0024330900243309003" count="1">influence fly influence_fly ash fly_ash influence_fly_ash curing ash_curing</phrase>
+	<phrase weight="0.0024330900243309003" count="1">silica_fume_influence ureolytic</phrase>
+	<phrase weight="0.0024330900243309003" count="1">al_beta mg_al_beta</phrase>
+  </topic>
+  <topic id="13" alpha="0.01470936937711242" totalTokens="7690" titles="gate, low, voltage, dc, based, current, power, motor, modeling, design">
+	<word weight="0.008192457737321196" count="63">gate</word>
+	<word weight="0.006371911573472042" count="49">low</word>
+	<word weight="0.006241872561768531" count="48">voltage</word>
+	<word weight="0.006111833550065019" count="47">dc</word>
+	<word weight="0.0059817945383615085" count="46">based</word>
+	<word weight="0.005851755526657998" count="45">current</word>
+	<word weight="0.005591677503250975" count="43">power</word>
+	<word weight="0.0046814044213263975" count="36">motor</word>
+	<word weight="0.004291287386215864" count="33">modeling</word>
+	<word weight="0.004291287386215864" count="33">design</word>
+	<word weight="0.004161248374512354" count="32">performance</word>
+	<word weight="0.004031209362808843" count="31">high</word>
+	<word weight="0.0039011703511053317" count="30">converter</word>
+	<word weight="0.0039011703511053317" count="30">applications</word>
+	<word weight="0.0039011703511053317" count="30">model</word>
+	<word weight="0.0037711313394018205" count="29">mode</word>
+	<word weight="0.0036410923276983093" count="28">inverter</word>
+	<word weight="0.0035110533159947986" count="27">analysis</word>
+	<word weight="0.0031209362808842654" count="24">mosfet</word>
+	<phrase weight="0.0047694753577106515" count="3">mode sliding_mode</phrase>
+	<phrase weight="0.003179650238473768" count="2">embedded nanowire_embedded</phrase>
+	<phrase weight="0.003179650238473768" count="2">drive motor_drive induction_motor_drive</phrase>
+	<phrase weight="0.003179650238473768" count="2">mode_control sliding_mode_control</phrase>
+	<phrase weight="0.003179650238473768" count="2">design development</phrase>
+	<phrase weight="0.001589825119236884" count="1">solar_photovoltaic_powered hysteresis powered_hysteresis photovoltaic_powered_hysteresis current hysteresis_current</phrase>
+	<phrase weight="0.001589825119236884" count="1">modeling simulation modeling_simulation</phrase>
+	<phrase weight="0.001589825119236884" count="1">induction_motor_unbalanced voltage</phrase>
+	<phrase weight="0.001589825119236884" count="1">node_pulsed_hybrid flip hybrid_flip pulsed_hybrid_flip flop flip_flop hybrid_flip_flop featuring flop_featuring flip_flop_featuring efficient featuring_efficient flop_featuring_efficient embedded efficient_embedded featuring_efficient_embedded logic embedded_logic</phrase>
+	<phrase weight="0.001589825119236884" count="1">motor_reactor induction_motor_reactor starting reactor_starting</phrase>
+	<phrase weight="0.001589825119236884" count="1">mission mav_mission</phrase>
+	<phrase weight="0.001589825119236884" count="1">phase_transformer capacitance_phase_transformer winding</phrase>
+	<phrase weight="0.001589825119236884" count="1">voltage_mode cascadable</phrase>
+	<phrase weight="0.001589825119236884" count="1">filter_size reduced_filter_size single size_single filter_size_single loop</phrase>
+	<phrase weight="0.001589825119236884" count="1">performance evaluation performance_evaluation simple evaluation_simple performance_evaluation_simple general simple_general evaluation_simple_general space</phrase>
+	<phrase weight="0.001589825119236884" count="1">converter boost_converter</phrase>
+	<phrase weight="0.001589825119236884" count="1">study_process simulation_study_process sensitivity process_sensitivity study_process_sensitivity line sensitivity_line</phrase>
+	<phrase weight="0.001589825119236884" count="1">double dual double_dual slope dual_slope</phrase>
+	<phrase weight="0.001589825119236884" count="1">experimental anfis_experimental systems_anfis_experimental</phrase>
+	<phrase weight="0.001589825119236884" count="1">coupled_modes_pull voltage</phrase>
+  </topic>
+  <topic id="14" alpha="0.012691636069587847" totalTokens="5594" titles="antenna, band, microstrip, applications, design, compact, shape, structure, memory, resonator">
+	<word weight="0.018770110833035394" count="105">antenna</word>
+	<word weight="0.01144082946013586" count="64">band</word>
+	<word weight="0.00893814801573114" count="50">microstrip</word>
+	<word weight="0.006435466571326421" count="36">applications</word>
+	<word weight="0.006435466571326421" count="36">design</word>
+	<word weight="0.006256703611011798" count="35">compact</word>
+	<word weight="0.005362888809438684" count="30">shape</word>
+	<word weight="0.0050053628888094386" count="28">structure</word>
+	<word weight="0.004826599928494816" count="27">memory</word>
+	<word weight="0.004647836968180193" count="26">resonator</word>
+	<word weight="0.0041115480872363245" count="23">patch</word>
+	<word weight="0.0041115480872363245" count="23">shaped</word>
+	<word weight="0.0041115480872363245" count="23">dual</word>
+	<word weight="0.0041115480872363245" count="23">shape_memory</word>
+	<word weight="0.003754022166607079" count="21">array</word>
+	<word weight="0.003754022166607079" count="21">analysis</word>
+	<word weight="0.003575259206292456" count="20">based</word>
+	<word weight="0.0033964962459778333" count="19">slot</word>
+	<word weight="0.0033964962459778333" count="19">wideband</word>
+	<phrase weight="0.01873536299765808" count="8">memory_alloy shape_memory_alloy</phrase>
+	<phrase weight="0.00936768149882904" count="4">memory shape_memory temperature_shape_memory</phrase>
+	<phrase weight="0.00702576112412178" count="3">shape_memory ni_shape_memory</phrase>
+	<phrase weight="0.00702576112412178" count="3">memory shape_memory</phrase>
+	<phrase weight="0.00468384074941452" count="2">shape temperature_shape</phrase>
+	<phrase weight="0.00468384074941452" count="2">directivity pulses directivity_pulses</phrase>
+	<phrase weight="0.00234192037470726" count="1">slotline fed slotline_fed ultracompact fed_ultracompact slotline_fed_ultracompact antenna ultracompact_antenna fed_ultracompact_antenna wide antenna_wide</phrase>
+	<phrase weight="0.00234192037470726" count="1">antenna_engineering optimization_antenna_engineering application engineering_application</phrase>
+	<phrase weight="0.00234192037470726" count="1">evaluating_thermal_performance earth performance_earth thermal_performance_earth air earth_air performance_earth_air tunnel air_tunnel earth_air_tunnel</phrase>
+	<phrase weight="0.00234192037470726" count="1">antennas microstrip_antennas radiations_microstrip_antennas compact antennas_compact</phrase>
+	<phrase weight="0.00234192037470726" count="1">determine_fundamental_frequency rectangular</phrase>
+	<phrase weight="0.00234192037470726" count="1">cone_rotational conducting_cone_rotational</phrase>
+	<phrase weight="0.00234192037470726" count="1">curve hilbert_curve modified_hilbert_curve slot curve_slot hilbert_curve_slot dual slot_dual curve_slot_dual band dual_band</phrase>
+	<phrase weight="0.00234192037470726" count="1">silicon ddr_silicon</phrase>
+	<phrase weight="0.00234192037470726" count="1">array linear_array</phrase>
+	<phrase weight="0.00234192037470726" count="1">design calibration</phrase>
+	<phrase weight="0.00234192037470726" count="1">suspended soot_suspended</phrase>
+	<phrase weight="0.00234192037470726" count="1">investigation radiation investigation_radiation improvement radiation_improvement</phrase>
+	<phrase weight="0.00234192037470726" count="1">wire actuator_wire</phrase>
+	<phrase weight="0.00234192037470726" count="1">porosity effect_porosity flr porosity_flr effect_porosity_flr</phrase>
+  </topic>
+  <topic id="15" alpha="0.01928707924338503" totalTokens="8265" titles="based, image, neural, network, detection, wavelet, neural_network, transform, classification, adaptive">
+	<word weight="0.017785843920145192" count="147">based</word>
+	<word weight="0.00895341802782819" count="74">image</word>
+	<word weight="0.008348457350272231" count="69">neural</word>
+	<word weight="0.00750151240169389" count="62">network</word>
+	<word weight="0.006654567453115548" count="55">detection</word>
+	<word weight="0.006291591046581972" count="52">wavelet</word>
+	<word weight="0.006170598911070781" count="51">neural_network</word>
+	<word weight="0.0054446460980036296" count="45">transform</word>
+	<word weight="0.004476709013914095" count="37">classification</word>
+	<word weight="0.00411373260738052" count="34">adaptive</word>
+	<word weight="0.003992740471869328" count="33">fault</word>
+	<word weight="0.0038717483363581366" count="32">images</word>
+	<word weight="0.003750756200846945" count="31">artificial</word>
+	<word weight="0.003750756200846945" count="31">fuzzy</word>
+	<word weight="0.0035087719298245615" count="29">diagnosis</word>
+	<word weight="0.003266787658802178" count="27">artificial_neural</word>
+	<word weight="0.003266787658802178" count="27">signal</word>
+	<word weight="0.003145795523290986" count="26">system</word>
+	<word weight="0.003145795523290986" count="26">analysis</word>
+	<phrase weight="0.005284015852047556" count="4">neural artificial_neural</phrase>
+	<phrase weight="0.003963011889035667" count="3">artificial neural artificial_neural network neural_network artificial_neural_network</phrase>
+	<phrase weight="0.002642007926023778" count="2">fuzzy logic fuzzy_logic</phrase>
+	<phrase weight="0.002642007926023778" count="2">network_modeling neural_network_modeling</phrase>
+	<phrase weight="0.002642007926023778" count="2">network_approach neural_network_approach</phrase>
+	<phrase weight="0.002642007926023778" count="2">neural network neural_network</phrase>
+	<phrase weight="0.002642007926023778" count="2">neural network neural_network prediction network_prediction neural_network_prediction</phrase>
+	<phrase weight="0.002642007926023778" count="2">network neural_network</phrase>
+	<phrase weight="0.001321003963011889" count="1">approach based approach_based rough based_rough approach_based_rough set rough_set based_rough_set theory set_theory rough_set_theory identification theory_identification set_theory_identification single identification_single theory_identification_single multiple single_multiple identification_single_multiple partial multiple_partial single_multiple_partial discharge partial_discharge multiple_partial_discharge</phrase>
+	<phrase weight="0.001321003963011889" count="1">efficient feature efficient_feature point</phrase>
+	<phrase weight="0.001321003963011889" count="1">ica based</phrase>
+	<phrase weight="0.001321003963011889" count="1">uniform deblurring uniform_deblurring</phrase>
+	<phrase weight="0.001321003963011889" count="1">indoor_wireless ieee_indoor_wireless local</phrase>
+	<phrase weight="0.001321003963011889" count="1">geometry differential_geometry based geometry_based</phrase>
+	<phrase weight="0.001321003963011889" count="1">optimal fpga optimal_fpga implementation fpga_implementation optimal_fpga_implementation cl</phrase>
+	<phrase weight="0.001321003963011889" count="1">detection diagnosis detection_diagnosis</phrase>
+	<phrase weight="0.001321003963011889" count="1">automotive_drivers_physiological signals</phrase>
+	<phrase weight="0.001321003963011889" count="1">adaptive_hybrid_neuro fuzzy neuro_fuzzy hybrid_neuro_fuzzy</phrase>
+	<phrase weight="0.001321003963011889" count="1">debris removal debris_removal pap removal_pap debris_removal_pap</phrase>
+	<phrase weight="0.001321003963011889" count="1">steganalysis network steganalysis_network packet network_packet steganalysis_network_packet</phrase>
+  </topic>
+  <topic id="16" alpha="0.019229007172192746" totalTokens="7216" titles="experimental, performance, concrete, reinforced, studies, investigation, study, seismic, evaluation, strength">
+	<word weight="0.012195121951219513" count="88">experimental</word>
+	<word weight="0.009700665188470067" count="70">performance</word>
+	<word weight="0.00803769401330377" count="58">concrete</word>
+	<word weight="0.00512749445676275" count="37">reinforced</word>
+	<word weight="0.004434589800443459" count="32">studies</word>
+	<word weight="0.0041574279379157425" count="30">investigation</word>
+	<word weight="0.0041574279379157425" count="30">study</word>
+	<word weight="0.004018847006651885" count="29">seismic</word>
+	<word weight="0.003880266075388027" count="28">evaluation</word>
+	<word weight="0.0037416851441241686" count="27">strength</word>
+	<word weight="0.0037416851441241686" count="27">materials</word>
+	<word weight="0.0037416851441241686" count="27">analysis</word>
+	<word weight="0.0034645232815964525" count="25">design</word>
+	<word weight="0.0034645232815964525" count="25">high</word>
+	<word weight="0.0034645232815964525" count="25">composite</word>
+	<word weight="0.0033259423503325942" count="24">numerical</word>
+	<word weight="0.0033259423503325942" count="24">effect</word>
+	<word weight="0.003048780487804878" count="22">damage</word>
+	<word weight="0.00291019955654102" count="21">pressure</word>
+	<phrase weight="0.0038860103626943004" count="3">theoretical experimental_theoretical</phrase>
+	<phrase weight="0.0025906735751295338" count="2">strength compressive_strength</phrase>
+	<phrase weight="0.0025906735751295338" count="2">pressure high_pressure</phrase>
+	<phrase weight="0.0025906735751295338" count="2">evaluation performance_evaluation</phrase>
+	<phrase weight="0.0025906735751295338" count="2">study experimental_study</phrase>
+	<phrase weight="0.0025906735751295338" count="2">experimental investigation experimental_investigation</phrase>
+	<phrase weight="0.0025906735751295338" count="2">earthquakes random_earthquakes</phrase>
+	<phrase weight="0.0025906735751295338" count="2">performance evaluation performance_evaluation</phrase>
+	<phrase weight="0.0025906735751295338" count="2">column distillation_column</phrase>
+	<phrase weight="0.0025906735751295338" count="2">performance high_performance</phrase>
+	<phrase weight="0.0025906735751295338" count="2">experimental studies experimental_studies</phrase>
+	<phrase weight="0.0025906735751295338" count="2">change phase_change</phrase>
+	<phrase weight="0.0012953367875647669" count="1">gfrp properties_gfrp</phrase>
+	<phrase weight="0.0012953367875647669" count="1">concrete_cohesive_interface digital interface_digital</phrase>
+	<phrase weight="0.0012953367875647669" count="1">shear remoulded_shear strength shear_strength</phrase>
+	<phrase weight="0.0012953367875647669" count="1">rc_building_performance evaluation performance_evaluation</phrase>
+	<phrase weight="0.0012953367875647669" count="1">optimizing_stretching impact_optimizing_stretching</phrase>
+	<phrase weight="0.0012953367875647669" count="1">effects combined_effects inertia effects_inertia combined_effects_inertia pressure inertia_pressure effects_inertia_pressure engine pressure_engine</phrase>
+	<phrase weight="0.0012953367875647669" count="1">experimental investigation experimental_investigation noise investigation_noise experimental_investigation_noise induced noise_induced investigation_noise_induced triggering induced_triggering noise_induced_triggering thermoacoustic</phrase>
+	<phrase weight="0.0012953367875647669" count="1">curves breakthrough_curves</phrase>
+  </topic>
+  <topic id="17" alpha="0.010015553077243595" totalTokens="4681" titles="membrane, characterization, poly, preparation, synthesis, composite, properties, membranes, based, exchange">
+	<word weight="0.008117923520615253" count="38">membrane</word>
+	<word weight="0.008117923520615253" count="38">characterization</word>
+	<word weight="0.007049775688955351" count="33">poly</word>
+	<word weight="0.005127109591967528" count="24">preparation</word>
+	<word weight="0.005127109591967528" count="24">synthesis</word>
+	<word weight="0.004913480025635548" count="23">composite</word>
+	<word weight="0.004699850459303568" count="22">properties</word>
+	<word weight="0.004486220892971587" count="21">membranes</word>
+	<word weight="0.004486220892971587" count="21">based</word>
+	<word weight="0.0038453321939756462" count="18">exchange</word>
+	<word weight="0.003631702627643666" count="17">polyethylene</word>
+	<word weight="0.003204443494979705" count="15">density</word>
+	<word weight="0.003204443494979705" count="15">ethylene</word>
+	<word weight="0.002990813928647725" count="14">glycol</word>
+	<word weight="0.002990813928647725" count="14">ether</word>
+	<word weight="0.002990813928647725" count="14">evaluation</word>
+	<word weight="0.002990813928647725" count="14">synthesis_characterization</word>
+	<word weight="0.0027771843623157445" count="13">cross</word>
+	<word weight="0.0027771843623157445" count="13">transport</word>
+	<phrase weight="0.006085192697768763" count="3">preparation characterization preparation_characterization</phrase>
+	<phrase weight="0.006085192697768763" count="3">exchange ion_exchange</phrase>
+	<phrase weight="0.002028397565922921" count="1">cobalt_arsenate polystyrene_cobalt_arsenate membrane arsenate_membrane</phrase>
+	<phrase weight="0.002028397565922921" count="1">water_glycerol properties_water_glycerol mixture</phrase>
+	<phrase weight="0.002028397565922921" count="1">acid sulphosalicylic_acid characterization_sulphosalicylic_acid</phrase>
+	<phrase weight="0.002028397565922921" count="1">anions_aqueous_solutions strong solutions_strong</phrase>
+	<phrase weight="0.002028397565922921" count="1">ethylene poly_ethylene</phrase>
+	<phrase weight="0.002028397565922921" count="1">cation weight_cation molecular_weight_cation anion cation_anion weight_cation_anion</phrase>
+	<phrase weight="0.002028397565922921" count="1">explosive_properties mechanical_explosive_properties bimodal properties_bimodal explosive_properties_bimodal hybrid bimodal_hybrid properties_bimodal_hybrid polymer hybrid_polymer</phrase>
+	<phrase weight="0.002028397565922921" count="1">initio_crystal ab_initio_crystal structure crystal_structure initio_crystal_structure charge structure_charge crystal_structure_charge density charge_density structure_charge_density distribution density_distribution charge_density_distribution highly distribution_highly</phrase>
+	<phrase weight="0.002028397565922921" count="1">modification surface_modification paclitaxel</phrase>
+	<phrase weight="0.002028397565922921" count="1">frequencies_silica_fiber srs</phrase>
+	<phrase weight="0.002028397565922921" count="1">flux_decline alleviation_flux_decline cross decline_cross flux_decline_cross</phrase>
+	<phrase weight="0.002028397565922921" count="1">silane_induced_switchable zwitterionic switchable_zwitterionic induced_switchable_zwitterionic membrane</phrase>
+	<phrase weight="0.002028397565922921" count="1">synthesis tolerance_synthesis</phrase>
+	<phrase weight="0.002028397565922921" count="1">chemistry green_chemistry</phrase>
+	<phrase weight="0.002028397565922921" count="1">ionic transport ionic_transport polyelectrolyte transport_polyelectrolyte ionic_transport_polyelectrolyte filled polyelectrolyte_filled transport_polyelectrolyte_filled cation</phrase>
+	<phrase weight="0.002028397565922921" count="1">azido_esters application_azido_esters energetic esters_energetic</phrase>
+	<phrase weight="0.002028397565922921" count="1">intermetallic formation_intermetallic energies_formation_intermetallic compounds intermetallic_compounds formation_intermetallic_compounds sn compounds_sn</phrase>
+	<phrase weight="0.002028397565922921" count="1">nanofiltration bulk nanofiltration_bulk drug bulk_drug nanofiltration_bulk_drug</phrase>
+  </topic>
+  <topic id="18" alpha="0.010265463721299899" totalTokens="4563" titles="oil, engine, performance, study, diesel, biodiesel, comparative, effect, combustion, comparative_study">
+	<word weight="0.01490247644093798" count="68">oil</word>
+	<word weight="0.010081087004163927" count="46">engine</word>
+	<word weight="0.00898531667762437" count="41">performance</word>
+	<word weight="0.008327854481700635" count="38">study</word>
+	<word weight="0.008108700416392724" count="37">diesel</word>
+	<word weight="0.00745123822046899" count="34">biodiesel</word>
+	<word weight="0.00745123822046899" count="34">comparative</word>
+	<word weight="0.006136313828621521" count="28">effect</word>
+	<word weight="0.005698005698005698" count="26">combustion</word>
+	<word weight="0.005478851632697786" count="25">comparative_study</word>
+	<word weight="0.0050405435020819634" count="23">diesel_engine</word>
+	<word weight="0.0046022353714661405" count="21">fuel</word>
+	<word weight="0.0043830813061582295" count="20">emission</word>
+	<word weight="0.0041639272408503175" count="19">production</word>
+	<word weight="0.0035064650449265836" count="16">characteristics</word>
+	<word weight="0.002849002849002849" count="13">pressure</word>
+	<word weight="0.002849002849002849" count="13">waste</word>
+	<word weight="0.0026298487836949377" count="12">blends</word>
+	<word weight="0.002410694718387026" count="11">methyl</word>
+	<phrase weight="0.017928286852589643" count="9">comparative study comparative_study</phrase>
+	<phrase weight="0.00597609561752988" count="3">comparative evaluation comparative_evaluation</phrase>
+	<phrase weight="0.00398406374501992" count="2">hydrodynamic cavitation hydrodynamic_cavitation</phrase>
+	<phrase weight="0.00398406374501992" count="2">sn_cu_sn ag sn_ag cu_sn_ag</phrase>
+	<phrase weight="0.00398406374501992" count="2">esters methyl_esters synthesis_methyl_esters</phrase>
+	<phrase weight="0.00398406374501992" count="2">oil_liquid vegetable_oil_liquid</phrase>
+	<phrase weight="0.00398406374501992" count="2">study comparative_study</phrase>
+	<phrase weight="0.00398406374501992" count="2">solder_alloys free_solder_alloys</phrase>
+	<phrase weight="0.00398406374501992" count="2">ag_cu sn_ag_cu lead cu_lead ag_cu_lead free lead_free cu_lead_free solder free_solder lead_free_solder</phrase>
+	<phrase weight="0.00398406374501992" count="2">comparative performance comparative_performance</phrase>
+	<phrase weight="0.00199203187250996" count="1">electrical_conductivity dc_electrical_conductivity</phrase>
+	<phrase weight="0.00199203187250996" count="1">extraction_concentration isoflavones</phrase>
+	<phrase weight="0.00199203187250996" count="1">biodiesel synthesis_biodiesel intensification_synthesis_biodiesel edible biodiesel_edible synthesis_biodiesel_edible oil edible_oil biodiesel_edible_oil</phrase>
+	<phrase weight="0.00199203187250996" count="1">azadirecta derived_azadirecta soaps_derived_azadirecta</phrase>
+	<phrase weight="0.00199203187250996" count="1">electroless_ni reaction_electroless_ni metallization ni_metallization electroless_ni_metallization</phrase>
+	<phrase weight="0.00199203187250996" count="1">based_ders chp_based_ders</phrase>
+	<phrase weight="0.00199203187250996" count="1">extract fruit_extract</phrase>
+	<phrase weight="0.00199203187250996" count="1">biodiesel selection_biodiesel blend biodiesel_blend selection_biodiesel_blend ic blend_ic biodiesel_blend_ic engines ic_engines</phrase>
+	<phrase weight="0.00199203187250996" count="1">investigations furanic</phrase>
+	<phrase weight="0.00199203187250996" count="1">additive_effects evaluation_additive_effects oxidation effects_oxidation additive_effects_oxidation stability oxidation_stability effects_oxidation_stability jatropha stability_jatropha oxidation_stability_jatropha curcas jatropha_curcas stability_jatropha_curcas biodiesel curcas_biodiesel jatropha_curcas_biodiesel blends biodiesel_blends curcas_biodiesel_blends conventional</phrase>
+  </topic>
+  <topic id="19" alpha="0.01791007833072428" totalTokens="8009" titles="optimization, based, multi, algorithm, design, approach, objective, multi_objective, optimal, fuzzy">
+	<word weight="0.018978649019852665" count="152">optimization</word>
+	<word weight="0.015108003496066925" count="121">based</word>
+	<word weight="0.012735672368585341" count="102">multi</word>
+	<word weight="0.01136221750530653" count="91">algorithm</word>
+	<word weight="0.008615307778748908" count="69">design</word>
+	<word weight="0.007991010113622176" count="64">approach</word>
+	<word weight="0.0063678361842926705" count="51">objective</word>
+	<word weight="0.005743538519165938" count="46">multi_objective</word>
+	<word weight="0.005618678986140592" count="45">optimal</word>
+	<word weight="0.005244100387064552" count="42">fuzzy</word>
+	<word weight="0.00499438132101386" count="40">genetic</word>
+	<word weight="0.004869521787988513" count="39">power</word>
+	<word weight="0.004370083655887127" count="35">system</word>
+	<word weight="0.004120364589836434" count="33">scheduling</word>
+	<word weight="0.0036209264577350482" count="29">problem</word>
+	<word weight="0.0036209264577350482" count="29">genetic_algorithm</word>
+	<word weight="0.0034960669247097015" count="28">economic</word>
+	<word weight="0.0033712073916843553" count="27">swarm</word>
+	<word weight="0.003121488325633662" count="25">evolutionary</word>
+	<phrase weight="0.00425531914893617" count="3">optimal design optimal_design</phrase>
+	<phrase weight="0.00425531914893617" count="3">objective multi_objective</phrase>
+	<phrase weight="0.00425531914893617" count="3">design optimization design_optimization</phrase>
+	<phrase weight="0.0028368794326241137" count="2">multi objective multi_objective</phrase>
+	<phrase weight="0.0028368794326241137" count="2">stage multi_stage</phrase>
+	<phrase weight="0.0028368794326241137" count="2">fuzzy based_fuzzy</phrase>
+	<phrase weight="0.0028368794326241137" count="2">multi criteria multi_criteria</phrase>
+	<phrase weight="0.0028368794326241137" count="2">economic plantwide economic_plantwide control plantwide_control economic_plantwide_control</phrase>
+	<phrase weight="0.0028368794326241137" count="2">swarm particle_swarm</phrase>
+	<phrase weight="0.0028368794326241137" count="2">algorithm genetic_algorithm</phrase>
+	<phrase weight="0.0028368794326241137" count="2">system power_system</phrase>
+	<phrase weight="0.0028368794326241137" count="2">evolution differential_evolution</phrase>
+	<phrase weight="0.0028368794326241137" count="2">optimization swarm_optimization particle_swarm_optimization</phrase>
+	<phrase weight="0.0028368794326241137" count="2">approach algorithm_approach</phrase>
+	<phrase weight="0.0014184397163120568" count="1">multilevel_thresholding_cuckoo search cuckoo_search</phrase>
+	<phrase weight="0.0014184397163120568" count="1">particle reduced_particle variance_reduced_particle</phrase>
+	<phrase weight="0.0014184397163120568" count="1">pooling resource_pooling based_resource_pooling technique pooling_technique</phrase>
+	<phrase weight="0.0014184397163120568" count="1">opf based opf_based reactive based_reactive opf_based_reactive power reactive_power based_reactive_power planning power_planning reactive_power_planning</phrase>
+	<phrase weight="0.0014184397163120568" count="1">composite_electric_power system power_system</phrase>
+	<phrase weight="0.0014184397163120568" count="1">verification theory_verification</phrase>
+  </topic>
+  <topic id="20" alpha="0.01234004205491806" totalTokens="5448" titles="sensor, networks, wireless, based, analysis, time, fiber, wireless_sensor, optical, sensor_networks">
+	<word weight="0.012848751835535976" count="70">sensor</word>
+	<word weight="0.011563876651982379" count="63">networks</word>
+	<word weight="0.008627019089574155" count="47">wireless</word>
+	<word weight="0.008443465491923641" count="46">based</word>
+	<word weight="0.007158590308370044" count="39">analysis</word>
+	<word weight="0.004588839941262849" count="25">time</word>
+	<word weight="0.004588839941262849" count="25">network</word>
+	<word weight="0.004588839941262849" count="25">fiber</word>
+	<word weight="0.004221732745961821" count="23">wireless_sensor</word>
+	<word weight="0.0034875183553597653" count="19">optical</word>
+	<word weight="0.003303964757709251" count="18">sensor_networks</word>
+	<word weight="0.003303964757709251" count="18">data</word>
+	<word weight="0.002936857562408223" count="16">delay</word>
+	<word weight="0.002936857562408223" count="16">performance</word>
+	<word weight="0.0027533039647577094" count="15">wireless_sensor_networks</word>
+	<word weight="0.0023861967694566812" count="13">wavelength</word>
+	<word weight="0.0023861967694566812" count="13">protocol</word>
+	<word weight="0.0022026431718061676" count="12">varying</word>
+	<word weight="0.0022026431718061676" count="12">coding</word>
+	<phrase weight="0.005366726296958855" count="3">analysis performance_analysis</phrase>
+	<phrase weight="0.0035778175313059034" count="2">long period long_period</phrase>
+	<phrase weight="0.0035778175313059034" count="2">sensor gas_sensor</phrase>
+	<phrase weight="0.0017889087656529517" count="1">wdm_pon_delivering downstream</phrase>
+	<phrase weight="0.0017889087656529517" count="1">performance analysis performance_analysis</phrase>
+	<phrase weight="0.0017889087656529517" count="1">hypercube_cube optical_hypercube_cube connected cube_connected</phrase>
+	<phrase weight="0.0017889087656529517" count="1">prepared_application film_prepared_application</phrase>
+	<phrase weight="0.0017889087656529517" count="1">wrsr wormhole wrsr_wormhole</phrase>
+	<phrase weight="0.0017889087656529517" count="1">adaptive_modulation analysis_adaptive_modulation</phrase>
+	<phrase weight="0.0017889087656529517" count="1">channel network_channel</phrase>
+	<phrase weight="0.0017889087656529517" count="1">deployment_sensors algorithms_deployment_sensors</phrase>
+	<phrase weight="0.0017889087656529517" count="1">mathematical model</phrase>
+	<phrase weight="0.0017889087656529517" count="1">analysis pattern_analysis theoretic_pattern_analysis</phrase>
+	<phrase weight="0.0017889087656529517" count="1">access aggregation_access</phrase>
+	<phrase weight="0.0017889087656529517" count="1">simple networks_simple</phrase>
+	<phrase weight="0.0017889087656529517" count="1">scheduling_approach centralized_scheduling_approach performance approach_performance scheduling_approach_performance</phrase>
+	<phrase weight="0.0017889087656529517" count="1">swarm_inspired_dynamic multiresolution dynamic_multiresolution inspired_dynamic_multiresolution data multiresolution_data dynamic_multiresolution_data dissemination</phrase>
+	<phrase weight="0.0017889087656529517" count="1">investigation_flashover_development mechanism</phrase>
+	<phrase weight="0.0017889087656529517" count="1">allocation_energy_efficiency evaluation</phrase>
+	<phrase weight="0.0017889087656529517" count="1">connection mixed_connection</phrase>
+  </topic>
+  <topic id="21" alpha="0.026170152580735233" totalTokens="13015" titles="properties, thin, films, structural, thin_films, optical, doped, effect, electrical, zno">
+	<word weight="0.020130618517095657" count="262">properties</word>
+	<word weight="0.01167883211678832" count="152">thin</word>
+	<word weight="0.010372646945831733" count="135">films</word>
+	<word weight="0.010142143680368806" count="132">structural</word>
+	<word weight="0.007990779869381483" count="104">thin_films</word>
+	<word weight="0.007606607760276604" count="99">optical</word>
+	<word weight="0.007376104494813677" count="96">doped</word>
+	<word weight="0.0066077602766039184" count="86">effect</word>
+	<word weight="0.006454091432961967" count="84">electrical</word>
+	<word weight="0.0063004225893200155" count="82">zno</word>
+	<word weight="0.005685747214752209" count="74">magnetic</word>
+	<word weight="0.0056089127929312334" count="73">nanoparticles</word>
+	<word weight="0.00530157510564733" count="69">dielectric</word>
+	<word weight="0.00530157510564733" count="69">temperature</word>
+	<word weight="0.004302727621974645" count="56">studies</word>
+	<word weight="0.0039185555128697655" count="51">zn</word>
+	<word weight="0.00384172109104879" count="50">film</word>
+	<word weight="0.003534383403764887" count="46">synthesis</word>
+	<word weight="0.0034575489819439107" count="45">fe</word>
+	<phrase weight="0.005249343832020997" count="6">film thin_film</phrase>
+	<phrase weight="0.004374453193350831" count="5">films thin_films</phrase>
+	<phrase weight="0.0026246719160104987" count="3">synthesis characterization</phrase>
+	<phrase weight="0.0017497812773403325" count="2">oxygen_partial effect_oxygen_partial</phrase>
+	<phrase weight="0.0017497812773403325" count="2">oxygen effect_oxygen</phrase>
+	<phrase weight="0.0017497812773403325" count="2">absorption optical_absorption</phrase>
+	<phrase weight="0.0017497812773403325" count="2">temperature room_temperature</phrase>
+	<phrase weight="0.0017497812773403325" count="2">thin film thin_film</phrase>
+	<phrase weight="0.0017497812773403325" count="2">optical resonance_optical</phrase>
+	<phrase weight="0.0017497812773403325" count="2">film thin_film zno_thin_film</phrase>
+	<phrase weight="0.0017497812773403325" count="2">properties dielectric_properties</phrase>
+	<phrase weight="0.0017497812773403325" count="2">bifeo doped_bifeo</phrase>
+	<phrase weight="0.0017497812773403325" count="2">properties magnetic_properties</phrase>
+	<phrase weight="0.0017497812773403325" count="2">effect temperature effect_temperature</phrase>
+	<phrase weight="0.0017497812773403325" count="2">earth rare_earth</phrase>
+	<phrase weight="0.0017497812773403325" count="2">gel sol_gel</phrase>
+	<phrase weight="0.0017497812773403325" count="2">film thin_film czts_thin_film</phrase>
+	<phrase weight="0.0017497812773403325" count="2">dots quantum_dots</phrase>
+	<phrase weight="8.748906386701663E-4" count="1">irradiation beam_irradiation ion_beam_irradiation radio irradiation_radio beam_irradiation_radio</phrase>
+	<phrase weight="8.748906386701663E-4" count="1">oxide_reduction_processes preparation processes_preparation reduction_processes_preparation rare</phrase>
+  </topic>
+  <topic id="22" alpha="0.009968899272037979" totalTokens="4209" titles="cell, solar, energy, cells, high, fuel, based, silicon, performance, study">
+	<word weight="0.011879306248515086" count="50">cell</word>
+	<word weight="0.011166547873604181" count="47">solar</word>
+	<word weight="0.007127583749109052" count="30">energy</word>
+	<word weight="0.006177239249227845" count="26">cells</word>
+	<word weight="0.005702066999287242" count="24">high</word>
+	<word weight="0.004751722499406035" count="20">fuel</word>
+	<word weight="0.0042765502494654314" count="18">based</word>
+	<word weight="0.004038964124495129" count="17">silicon</word>
+	<word weight="0.004038964124495129" count="17">performance</word>
+	<word weight="0.003801377999524828" count="16">study</word>
+	<word weight="0.003563791874554526" count="15">dye</word>
+	<word weight="0.003563791874554526" count="15">fuel_cell</word>
+	<word weight="0.003326205749584224" count="14">solar_cells</word>
+	<word weight="0.0030886196246139226" count="13">sensitized</word>
+	<word weight="0.002851033499643621" count="12">single</word>
+	<word weight="0.002851033499643621" count="12">dye_sensitized_solar</word>
+	<word weight="0.002851033499643621" count="12">sensitized_solar</word>
+	<word weight="0.002851033499643621" count="12">dye_sensitized</word>
+	<word weight="0.002613447374673319" count="11">efficiency</word>
+	<phrase weight="0.003952569169960474" count="2">energy high_energy</phrase>
+	<phrase weight="0.003952569169960474" count="2">energy solar_energy</phrase>
+	<phrase weight="0.003952569169960474" count="2">cell fuel_cell</phrase>
+	<phrase weight="0.003952569169960474" count="2">cells solar_cells</phrase>
+	<phrase weight="0.001976284584980237" count="1">cathode design_cathode heater cathode_heater</phrase>
+	<phrase weight="0.001976284584980237" count="1">study caco study_caco</phrase>
+	<phrase weight="0.001976284584980237" count="1">based macrophyte_based</phrase>
+	<phrase weight="0.001976284584980237" count="1">specific contact specific_contact resistance contact_resistance specific_contact_resistance measurement resistance_measurement contact_resistance_measurement screen measurement_screen resistance_measurement_screen</phrase>
+	<phrase weight="0.001976284584980237" count="1">water_meeting ultrapure_water_meeting cell meeting_cell water_meeting_cell</phrase>
+	<phrase weight="0.001976284584980237" count="1">biorenewable_carbohydrates conversion_biorenewable_carbohydrates biopolymers carbohydrates_biopolymers biorenewable_carbohydrates_biopolymers biofuel biopolymers_biofuel carbohydrates_biopolymers_biofuel</phrase>
+	<phrase weight="0.001976284584980237" count="1">engineered_submerged_emergent macrophyte emergent_macrophyte</phrase>
+	<phrase weight="0.001976284584980237" count="1">cells_doping solar_cells_doping</phrase>
+	<phrase weight="0.001976284584980237" count="1">made_waste_foundry sand foundry_sand</phrase>
+	<phrase weight="0.001976284584980237" count="1">biomorphic_sic characterisation_biomorphic_sic ceramics sic_ceramics</phrase>
+	<phrase weight="0.001976284584980237" count="1">inorganic blue_inorganic intense_blue_inorganic pigments inorganic_pigments blue_inorganic_pigments high pigments_high inorganic_pigments_high infrared high_infrared</phrase>
+	<phrase weight="0.001976284584980237" count="1">measurement voltage_measurement capacitance_voltage_measurement screen measurement_screen voltage_measurement_screen</phrase>
+	<phrase weight="0.001976284584980237" count="1">regiospecific colchicine_regiospecific bioconversion_colchicine_regiospecific demethylated regiospecific_demethylated colchicine_regiospecific_demethylated colchicine demethylated_colchicine regiospecific_demethylated_colchicine dmc colchicine_dmc demethylated_colchicine_dmc cell dmc_cell colchicine_dmc_cell immobilization</phrase>
+	<phrase weight="0.001976284584980237" count="1">growth_structure crystalline structure_crystalline growth_structure_crystalline perfection</phrase>
+	<phrase weight="0.001976284584980237" count="1">probe ion_probe fe_ion_probe study</phrase>
+	<phrase weight="0.001976284584980237" count="1">film_based_mems acoustic</phrase>
+  </topic>
+  <topic id="23" alpha="0.025989168745833756" totalTokens="12527" titles="alloy, mechanical, composites, properties, effect, machining, mechanical_properties, wear, behavior, alloys">
+	<word weight="0.011734653149197733" count="147">alloy</word>
+	<word weight="0.010138101700327293" count="127">al</word>
+	<word weight="0.0077432745270216334" count="97">mechanical</word>
+	<word weight="0.006944998802586413" count="87">composites</word>
+	<word weight="0.0068651712301428915" count="86">properties</word>
+	<word weight="0.006705516085255847" count="84">effect</word>
+	<word weight="0.005029137063941885" count="63">machining</word>
+	<word weight="0.005029137063941885" count="63">composite</word>
+	<word weight="0.004869481919054842" count="61">ti</word>
+	<word weight="0.0047896543466113195" count="60">mechanical_properties</word>
+	<word weight="0.0047896543466113195" count="60">wear</word>
+	<word weight="0.0047896543466113195" count="60">behavior</word>
+	<word weight="0.004550171629280754" count="57">alloys</word>
+	<word weight="0.004230861339506666" count="53">friction</word>
+	<word weight="0.004151033767063143" count="52">process</word>
+	<word weight="0.004071206194619622" count="51">parameters</word>
+	<word weight="0.0039913786221761" count="50">matrix</word>
+	<word weight="0.0039115510497325775" count="49">metal</word>
+	<word weight="0.0039115510497325775" count="49">study</word>
+	<phrase weight="0.003215434083601286" count="4">wear sliding_wear</phrase>
+	<phrase weight="0.003215434083601286" count="4">tribological behavior tribological_behavior</phrase>
+	<phrase weight="0.003215434083601286" count="4">stir friction_stir</phrase>
+	<phrase weight="0.002411575562700965" count="3">alloy ni_alloy</phrase>
+	<phrase weight="0.002411575562700965" count="3">properties mechanical_properties</phrase>
+	<phrase weight="0.002411575562700965" count="3">cr cu_cr</phrase>
+	<phrase weight="0.002411575562700965" count="3">temperature high_temperature</phrase>
+	<phrase weight="0.001607717041800643" count="2">ti_similar properties_ti_similar ni similar_ni ti_similar_ni shape ni_shape similar_ni_shape</phrase>
+	<phrase weight="0.001607717041800643" count="2">welded stir_welded friction_stir_welded</phrase>
+	<phrase weight="0.001607717041800643" count="2">tool aisi_tool</phrase>
+	<phrase weight="0.001607717041800643" count="2">bioactivity vitro_bioactivity</phrase>
+	<phrase weight="0.001607717041800643" count="2">input heat_input</phrase>
+	<phrase weight="0.001607717041800643" count="2">high strain high_strain rate strain_rate</phrase>
+	<phrase weight="0.001607717041800643" count="2">arc submerged_arc</phrase>
+	<phrase weight="0.001607717041800643" count="2">parameters process_parameters</phrase>
+	<phrase weight="0.001607717041800643" count="2">parameters machining_parameters optimization_machining_parameters drilling parameters_drilling machining_parameters_drilling</phrase>
+	<phrase weight="0.001607717041800643" count="2">properties mechanical_properties microstructure_mechanical_properties</phrase>
+	<phrase weight="0.001607717041800643" count="2">mechanical properties mechanical_properties ti properties_ti mechanical_properties_ti</phrase>
+	<phrase weight="0.001607717041800643" count="2">reinforced fiber_reinforced glass_fiber_reinforced</phrase>
+	<phrase weight="0.001607717041800643" count="2">alloy titanium_alloy</phrase>
+  </topic>
+  <topic id="24" alpha="0.012347455735795666" totalTokens="6206" titles="liquid, extraction, aqueous, studies, phase, ionic, membrane, study, separation, surfactant">
+	<word weight="0.011118272639381244" count="69">liquid</word>
+	<word weight="0.009829197550757332" count="61">extraction</word>
+	<word weight="0.007573316145665485" count="47">aqueous</word>
+	<word weight="0.007412181759587496" count="46">studies</word>
+	<word weight="0.007251047373509507" count="45">phase</word>
+	<word weight="0.006284241057041572" count="39">ionic</word>
+	<word weight="0.0054785691266516275" count="34">membrane</word>
+	<word weight="0.0045117628101836935" count="28">study</word>
+	<word weight="0.003706090879793748" count="23">separation</word>
+	<word weight="0.003706090879793748" count="23">surfactant</word>
+	<word weight="0.003544956493715759" count="22">recovery</word>
+	<word weight="0.00338382210763777" count="21">acid</word>
+	<word weight="0.00338382210763777" count="21">system</word>
+	<word weight="0.003222687721559781" count="20">liquid_membrane</word>
+	<word weight="0.003061553335481792" count="19">mixtures</word>
+	<word weight="0.003061553335481792" count="19">effect</word>
+	<word weight="0.0029004189494038026" count="18">surfactants</word>
+	<word weight="0.0029004189494038026" count="18">solution</word>
+	<word weight="0.0029004189494038026" count="18">solutions</word>
+	<phrase weight="0.0035398230088495575" count="2">solutions aqueous_solutions</phrase>
+	<phrase weight="0.0035398230088495575" count="2">gravity_driven solutions_gravity_driven</phrase>
+	<phrase weight="0.0035398230088495575" count="2">phase aqueous_phase</phrase>
+	<phrase weight="0.0017699115044247787" count="1">process ultrasound_process</phrase>
+	<phrase weight="0.0017699115044247787" count="1">bragg fiber_bragg etched_fiber_bragg grating bragg_grating fiber_bragg_grating</phrase>
+	<phrase weight="0.0017699115044247787" count="1">mathematical_model_performance evaluation</phrase>
+	<phrase weight="0.0017699115044247787" count="1">zirconium_modified toluene_zirconium_modified hexagonal modified_hexagonal zirconium_modified_hexagonal molecular hexagonal_molecular modified_hexagonal_molecular sieve molecular_sieve</phrase>
+	<phrase weight="0.0017699115044247787" count="1">acids amino_acids</phrase>
+	<phrase weight="0.0017699115044247787" count="1">ciliary muco_ciliary</phrase>
+	<phrase weight="0.0017699115044247787" count="1">study mixed study_mixed micelles mixed_micelles study_mixed_micelles cationic micelles_cationic mixed_micelles_cationic gemini cationic_gemini micelles_cationic_gemini surfactants gemini_surfactants cationic_gemini_surfactants</phrase>
+	<phrase weight="0.0017699115044247787" count="1">polyethersulfone_beads media_polyethersulfone_beads ehpa</phrase>
+	<phrase weight="0.0017699115044247787" count="1">nanocellulose_based adsorption_nanocellulose_based</phrase>
+	<phrase weight="0.0017699115044247787" count="1">mathematical model mathematical_model extraction model_extraction mathematical_model_extraction neodymium extraction_neodymium model_extraction_neodymium nitrate neodymium_nitrate extraction_neodymium_nitrate media nitrate_media neodymium_nitrate_media hollow media_hollow nitrate_media_hollow fiber hollow_fiber</phrase>
+	<phrase weight="0.0017699115044247787" count="1">conductances electrical_conductances butyl conductances_butyl electrical_conductances_butyl propylimidazolium butyl_propylimidazolium conductances_butyl_propylimidazolium bromide propylimidazolium_bromide butyl_propylimidazolium_bromide butyl bromide_butyl propylimidazolium_bromide_butyl propylbenzimidazolium butyl_propylbenzimidazolium bromide_butyl_propylbenzimidazolium bromide propylbenzimidazolium_bromide butyl_propylbenzimidazolium_bromide water bromide_water propylbenzimidazolium_bromide_water methanol water_methanol bromide_water_methanol acetonitrile methanol_acetonitrile</phrase>
+	<phrase weight="0.0017699115044247787" count="1">infra robust_infra red infra_red</phrase>
+	<phrase weight="0.0017699115044247787" count="1">studies permeation studies_permeation iii permeation_iii studies_permeation_iii supported</phrase>
+	<phrase weight="0.0017699115044247787" count="1">studies surfactant</phrase>
+	<phrase weight="0.0017699115044247787" count="1">specific task_specific functionalized_task_specific ionic specific_ionic</phrase>
+	<phrase weight="0.0017699115044247787" count="1">extractant phase_extractant</phrase>
+	<phrase weight="0.0017699115044247787" count="1">bulk liquid bulk_liquid membrane liquid_membrane bulk_liquid_membrane</phrase>
+  </topic>
+  <topic id="25" alpha="0.00892914101231923" totalTokens="3547" titles="carbon, nanotubes, based, carbon_nanotubes, orthogonal, single, division, approach, sensors, code">
+	<word weight="0.010431350436989005" count="37">carbon</word>
+	<word weight="0.0053566394135889485" count="19">nanotubes</word>
+	<word weight="0.0053566394135889485" count="19">based</word>
+	<word weight="0.005074711023400056" count="18">carbon_nanotubes</word>
+	<word weight="0.005074711023400056" count="18">nanotube</word>
+	<word weight="0.00422892585283338" count="15">carbon_nanotube</word>
+	<word weight="0.0039469974626444885" count="14">orthogonal</word>
+	<word weight="0.0039469974626444885" count="14">single</word>
+	<word weight="0.0033831406822667043" count="12">division</word>
+	<word weight="0.0031012122920778123" count="11">approach</word>
+	<word weight="0.00281928390188892" count="10">sensors</word>
+	<word weight="0.002537355511700028" count="9">code</word>
+	<word weight="0.002537355511700028" count="9">method</word>
+	<word weight="0.002537355511700028" count="9">reduction</word>
+	<word weight="0.002255427121511136" count="8">multiwalled_carbon</word>
+	<word weight="0.002255427121511136" count="8">multiwalled</word>
+	<word weight="0.002255427121511136" count="8">equation</word>
+	<word weight="0.002255427121511136" count="8">access</word>
+	<word weight="0.0019734987313222443" count="7">walled</word>
+	<phrase weight="0.006564551422319475" count="3">division_multiplexing frequency_division_multiplexing</phrase>
+	<phrase weight="0.006564551422319475" count="3">division frequency_division orthogonal_frequency_division</phrase>
+	<phrase weight="0.006564551422319475" count="3">nanotube carbon_nanotube</phrase>
+	<phrase weight="0.00437636761487965" count="2">nanotube_reinforced carbon_nanotube_reinforced</phrase>
+	<phrase weight="0.00437636761487965" count="2">capture_storage carbon_capture_storage</phrase>
+	<phrase weight="0.00437636761487965" count="2">walled multi_walled</phrase>
+	<phrase weight="0.002188183807439825" count="1">dependent time_dependent solution_time_dependent</phrase>
+	<phrase weight="0.002188183807439825" count="1">dinitrophenol_hybrid degradation_dinitrophenol_hybrid treatment hybrid_treatment dinitrophenol_hybrid_treatment</phrase>
+	<phrase weight="0.002188183807439825" count="1">equation_graphene_sheet thomson</phrase>
+	<phrase weight="0.002188183807439825" count="1">end_replica_transconductance termination transconductance_termination replica_transconductance_termination</phrase>
+	<phrase weight="0.002188183807439825" count="1">electron_quantum dynamics_electron_quantum wells</phrase>
+	<phrase weight="0.002188183807439825" count="1">ocdma_code_families complete families_complete</phrase>
+	<phrase weight="0.002188183807439825" count="1">nanotubes carbon_nanotubes functionalization_carbon_nanotubes</phrase>
+	<phrase weight="0.002188183807439825" count="1">styrene_sulfonate_ngps nanographitic</phrase>
+	<phrase weight="0.002188183807439825" count="1">variability_aware hardware_variability_aware</phrase>
+	<phrase weight="0.002188183807439825" count="1">based_hemoglobin_immobilized carboxylated immobilized_carboxylated hemoglobin_immobilized_carboxylated multi</phrase>
+	<phrase weight="0.002188183807439825" count="1">behavior_cfta dynamic_behavior_cfta</phrase>
+	<phrase weight="0.002188183807439825" count="1">integration barotropic</phrase>
+	<phrase weight="0.002188183807439825" count="1">tendon_damage effects_tendon_damage</phrase>
+	<phrase weight="0.002188183807439825" count="1">immobilized_single asahii_immobilized_single</phrase>
+  </topic>
+  <topic id="26" alpha="0.020744993836891528" totalTokens="10116" titles="flow, heat, transfer, convection, heat_transfer, porous, fluid, effect, thermal, effects">
+	<word weight="0.015618821668643732" count="158">flow</word>
+	<word weight="0.015322261763542903" count="155">heat</word>
+	<word weight="0.01047844998022934" count="106">transfer</word>
+	<word weight="0.00771055753262159" count="78">convection</word>
+	<word weight="0.0072162910241202055" count="73">heat_transfer</word>
+	<word weight="0.0071174377224199285" count="72">porous</word>
+	<word weight="0.005733491498616054" count="58">fluid</word>
+	<word weight="0.0055357848952155" count="56">effect</word>
+	<word weight="0.005140371688414393" count="52">thermal</word>
+	<word weight="0.004744958481613286" count="48">effects</word>
+	<word weight="0.004250691973111902" count="43">vertical</word>
+	<word weight="0.004151838671411625" count="42">medium</word>
+	<word weight="0.0039541320680110716" count="40">analysis</word>
+	<word weight="0.003855278766310795" count="39">study</word>
+	<word weight="0.003756425464610518" count="38">numerical</word>
+	<word weight="0.0036575721629102413" count="37">plate</word>
+	<word weight="0.003361012257809411" count="34">layer</word>
+	<word weight="0.003262158956109134" count="33">mass</word>
+	<word weight="0.003262158956109134" count="33">natural</word>
+	<phrase weight="0.0054869684499314125" count="4">transfer mass_transfer</phrase>
+	<phrase weight="0.00411522633744856" count="3">transfer heat_transfer</phrase>
+	<phrase weight="0.00411522633744856" count="3">mass transfer mass_transfer</phrase>
+	<phrase weight="0.0027434842249657062" count="2">absorption vapour_absorption</phrase>
+	<phrase weight="0.0027434842249657062" count="2">numerical investigation numerical_investigation</phrase>
+	<phrase weight="0.0027434842249657062" count="2">flux heat_flux</phrase>
+	<phrase weight="0.0027434842249657062" count="2">driven pressure_driven</phrase>
+	<phrase weight="0.0027434842249657062" count="2">heat radiative_heat</phrase>
+	<phrase weight="0.0027434842249657062" count="2">exchangers heat_exchangers</phrase>
+	<phrase weight="0.0027434842249657062" count="2">conductivity thermal_conductivity</phrase>
+	<phrase weight="0.0027434842249657062" count="2">flow turbulent_flow</phrase>
+	<phrase weight="0.0027434842249657062" count="2">numerical simulation numerical_simulation</phrase>
+	<phrase weight="0.0027434842249657062" count="2">pattern flow_pattern</phrase>
+	<phrase weight="0.0027434842249657062" count="2">wave propagation wave_propagation</phrase>
+	<phrase weight="0.0027434842249657062" count="2">numbers reynolds_numbers</phrase>
+	<phrase weight="0.0013717421124828531" count="1">flow_square_mini channel mini_channel</phrase>
+	<phrase weight="0.0013717421124828531" count="1">exchangers heat_exchangers flow_heat_exchangers thermal exchangers_thermal</phrase>
+	<phrase weight="0.0013717421124828531" count="1">enhancement solubility enhancement_solubility mass solubility_mass enhancement_solubility_mass transfer mass_transfer solubility_mass_transfer coefficient transfer_coefficient mass_transfer_coefficient benzoic coefficient_benzoic transfer_coefficient_benzoic</phrase>
+	<phrase weight="0.0013717421124828531" count="1">mass_transfer_related phenomena</phrase>
+	<phrase weight="0.0013717421124828531" count="1">induced_residual_stress direct</phrase>
+  </topic>
+  <topic id="27" alpha="0.012065106605443222" totalTokens="4428" titles="analysis, system, simulation, approach, model, design, based, reliability, development, study">
+	<word weight="0.008807588075880758" count="39">analysis</word>
+	<word weight="0.008130081300813009" count="36">system</word>
+	<word weight="0.006097560975609756" count="27">simulation</word>
+	<word weight="0.005871725383920506" count="26">approach</word>
+	<word weight="0.005194218608852755" count="23">model</word>
+	<word weight="0.005194218608852755" count="23">design</word>
+	<word weight="0.005194218608852755" count="23">based</word>
+	<word weight="0.0047425474254742545" count="21">reliability</word>
+	<word weight="0.0040650406504065045" count="18">development</word>
+	<word weight="0.0036133694670280035" count="16">study</word>
+	<word weight="0.002935862691960253" count="13">dynamics</word>
+	<word weight="0.002935862691960253" count="13">impact</word>
+	<word weight="0.0027100271002710027" count="12">failure</word>
+	<word weight="0.0027100271002710027" count="12">comprehensive</word>
+	<word weight="0.0027100271002710027" count="12">systems</word>
+	<word weight="0.0024841915085817524" count="11">monte_carlo</word>
+	<word weight="0.0024841915085817524" count="11">carlo</word>
+	<word weight="0.0024841915085817524" count="11">monte</word>
+	<word weight="0.0024841915085817524" count="11">water</word>
+	<phrase weight="0.003629764065335753" count="2">diffusivity thermal_diffusivity</phrase>
+	<phrase weight="0.003629764065335753" count="2">carlo monte_carlo</phrase>
+	<phrase weight="0.003629764065335753" count="2">feasibility study feasibility_study</phrase>
+	<phrase weight="0.0018148820326678765" count="1">cf_peek_interface improve interface_improve</phrase>
+	<phrase weight="0.0018148820326678765" count="1">laulryl_sulfate sodium_laulryl_sulfate</phrase>
+	<phrase weight="0.0018148820326678765" count="1">partial dynamic_partial reconfigurable</phrase>
+	<phrase weight="0.0018148820326678765" count="1">combining_factor approach_combining_factor analysis factor_analysis combining_factor_analysis</phrase>
+	<phrase weight="0.0018148820326678765" count="1">poles_modified_debye model debye_model modified_debye_model oil</phrase>
+	<phrase weight="0.0018148820326678765" count="1">simulation feasibility simulation_feasibility</phrase>
+	<phrase weight="0.0018148820326678765" count="1">transformers windings_transformers</phrase>
+	<phrase weight="0.0018148820326678765" count="1">algorithm_detect innovative_algorithm_detect characterize</phrase>
+	<phrase weight="0.0018148820326678765" count="1">board_photonic chess_board_photonic crystal</phrase>
+	<phrase weight="0.0018148820326678765" count="1">focused crawling focused_crawling tagged</phrase>
+	<phrase weight="0.0018148820326678765" count="1">characterize_microstructure model_characterize_microstructure</phrase>
+	<phrase weight="0.0018148820326678765" count="1">subgrade_strength_flexible pavements flexible_pavements</phrase>
+	<phrase weight="0.0018148820326678765" count="1">glass_microspheres_cenospheres insulation</phrase>
+	<phrase weight="0.0018148820326678765" count="1">imprecisely_defined_structures fuzzy structures_fuzzy defined_structures_fuzzy</phrase>
+	<phrase weight="0.0018148820326678765" count="1">critical phenomena critical_phenomena</phrase>
+	<phrase weight="0.0018148820326678765" count="1">electric_stress distribution</phrase>
+	<phrase weight="0.0018148820326678765" count="1">nature inspired nature_inspired</phrase>
+  </topic>
+  <topic id="28" alpha="0.018020058996720885" totalTokens="8507" titles="removal, adsorption, aqueous, carbon, ii, solution, studies, activated, water, aqueous_solution">
+	<word weight="0.014106030327965206" count="120">removal</word>
+	<word weight="0.010344422240507817" count="88">adsorption</word>
+	<word weight="0.008581168449512167" count="73">aqueous</word>
+	<word weight="0.007875866933113906" count="67">carbon</word>
+	<word weight="0.007758316680380863" count="66">ii</word>
+	<word weight="0.0055248618784530384" count="47">solution</word>
+	<word weight="0.0055248618784530384" count="47">studies</word>
+	<word weight="0.005289761372986952" count="45">activated</word>
+	<word weight="0.005054660867520865" count="43">water</word>
+	<word weight="0.004702010109321735" count="40">aqueous_solution</word>
+	<word weight="0.004349359351122605" count="37">wastewater</word>
+	<word weight="0.004349359351122605" count="37">equilibrium</word>
+	<word weight="0.004231809098389562" count="36">waste</word>
+	<word weight="0.003761608087457388" count="32">ions</word>
+	<word weight="0.003761608087457388" count="32">dye</word>
+	<word weight="0.003644057834724345" count="31">activated_carbon</word>
+	<word weight="0.0035265075819913014" count="30">modified</word>
+	<word weight="0.0035265075819913014" count="30">kinetic</word>
+	<word weight="0.0032914070765252147" count="28">treatment</word>
+	<phrase weight="0.004592422502870264" count="4">dioxide carbon_dioxide</phrase>
+	<phrase weight="0.004592422502870264" count="4">cost low_cost</phrase>
+	<phrase weight="0.003444316877152698" count="3">ash husk_ash rice_husk_ash</phrase>
+	<phrase weight="0.002296211251435132" count="2">effective cost_effective</phrase>
+	<phrase weight="0.002296211251435132" count="2">exchanger cation_exchanger</phrase>
+	<phrase weight="0.002296211251435132" count="2">husk rice_husk</phrase>
+	<phrase weight="0.002296211251435132" count="2">solution aqueous_solution</phrase>
+	<phrase weight="0.001148105625717566" count="1">flame_synthesized_carbon nanofibers carbon_nanofibers</phrase>
+	<phrase weight="0.001148105625717566" count="1">phase_adsorption_xylene granular</phrase>
+	<phrase weight="0.001148105625717566" count="1">synthetic_sea dioxide_synthetic_sea</phrase>
+	<phrase weight="0.001148105625717566" count="1">hole_stress range_hole_stress</phrase>
+	<phrase weight="0.001148105625717566" count="1">dye red_dye congo_red_dye</phrase>
+	<phrase weight="0.001148105625717566" count="1">liquid_phase_potential biosorption potential_biosorption</phrase>
+	<phrase weight="0.001148105625717566" count="1">settled embankment_settled</phrase>
+	<phrase weight="0.001148105625717566" count="1">montmorillonite_catalysts ii_montmorillonite_catalysts</phrase>
+	<phrase weight="0.001148105625717566" count="1">compressor temperatures_compressor desorption_temperatures_compressor sizing compressor_sizing temperatures_compressor_sizing activated sizing_activated</phrase>
+	<phrase weight="0.001148105625717566" count="1">carbon_derived activated_carbon_derived</phrase>
+	<phrase weight="0.001148105625717566" count="1">batch discontinuous_batch</phrase>
+	<phrase weight="0.001148105625717566" count="1">dye azo_dye</phrase>
+	<phrase weight="0.001148105625717566" count="1">electrochemical_properties_activated carbon activated_carbon properties_activated_carbon</phrase>
+  </topic>
+  <topic id="29" alpha="0.019353816584955597" totalTokens="8127" titles="synthesis, characterization, oxide, nanoparticles, synthesis_characterization, based, graphene, degradation, metal, photocatalytic">
+	<word weight="0.019933554817275746" count="162">synthesis</word>
+	<word weight="0.010582010582010581" count="86">characterization</word>
+	<word weight="0.009474590869939707" count="77">oxide</word>
+	<word weight="0.00898240433124154" count="73">nanoparticles</word>
+	<word weight="0.0067675649070997905" count="55">synthesis_characterization</word>
+	<word weight="0.005414051925679833" count="44">based</word>
+	<word weight="0.005291005291005291" count="43">graphene</word>
+	<word weight="0.00516795865633075" count="42">degradation</word>
+	<word weight="0.0050449120216562076" count="41">metal</word>
+	<word weight="0.004798818752307124" count="39">photocatalytic</word>
+	<word weight="0.004183585578934416" count="34">assisted</word>
+	<word weight="0.004060538944259874" count="33">tio</word>
+	<word weight="0.0033222591362126247" count="27">application</word>
+	<word weight="0.0033222591362126247" count="27">zno</word>
+	<word weight="0.003076165866863541" count="25">silver</word>
+	<word weight="0.003076165866863541" count="25">zinc</word>
+	<word weight="0.003076165866863541" count="25">nanocomposites</word>
+	<word weight="0.003076165866863541" count="25">electrochemical</word>
+	<word weight="0.003076165866863541" count="25">activity</word>
+	<phrase weight="0.0032679738562091504" count="3">synthesis characterization synthesis_characterization</phrase>
+	<phrase weight="0.002178649237472767" count="2">nanoparticles oxide_nanoparticles</phrase>
+	<phrase weight="0.002178649237472767" count="2">efficient nanoparticles_efficient</phrase>
+	<phrase weight="0.002178649237472767" count="2">oxide zinc_oxide</phrase>
+	<phrase weight="0.002178649237472767" count="2">ultrasound assisted ultrasound_assisted</phrase>
+	<phrase weight="0.002178649237472767" count="2">composite based_composite</phrase>
+	<phrase weight="0.002178649237472767" count="2">characterization synthesis_characterization</phrase>
+	<phrase weight="0.002178649237472767" count="2">highly efficient highly_efficient</phrase>
+	<phrase weight="0.002178649237472767" count="2">transition metal transition_metal</phrase>
+	<phrase weight="0.002178649237472767" count="2">nanorods zno_nanorods</phrase>
+	<phrase weight="0.002178649237472767" count="2">assisted microwave_assisted</phrase>
+	<phrase weight="0.002178649237472767" count="2">graphene oxide graphene_oxide</phrase>
+	<phrase weight="0.002178649237472767" count="2">oxide graphene_oxide</phrase>
+	<phrase weight="0.002178649237472767" count="2">photocatalytic degradation photocatalytic_degradation</phrase>
+	<phrase weight="0.0010893246187363835" count="1">oxide titanium_oxide oxide_titanium_oxide incorporated oxide_incorporated titanium_oxide_incorporated aluminium incorporated_aluminium oxide_incorporated_aluminium nacl aluminium_nacl incorporated_aluminium_nacl</phrase>
+	<phrase weight="0.0010893246187363835" count="1">nickel_hydroxide fibrous_nickel_hydroxide</phrase>
+	<phrase weight="0.0010893246187363835" count="1">synthesized_sno hydrothermally_synthesized_sno</phrase>
+	<phrase weight="0.0010893246187363835" count="1">method_multicomponent_synthesis dihydropyrano</phrase>
+	<phrase weight="0.0010893246187363835" count="1">temperature_catalyst calcination_temperature_catalyst surface catalyst_surface</phrase>
+	<phrase weight="0.0010893246187363835" count="1">studies_oppositely chemical_studies_oppositely</phrase>
+  </topic>
+</topics>

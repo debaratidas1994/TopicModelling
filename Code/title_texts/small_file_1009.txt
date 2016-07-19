@@ -1,0 +1,1 @@
+Optimal design of laminate composite isogrid with dynamically reconfigurable quantum PSO

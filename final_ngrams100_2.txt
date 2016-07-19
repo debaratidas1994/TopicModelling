@@ -1,0 +1,100 @@
+Engineering : covalently, absorbing, lambda, pseudo, battery, nanocatalyst, conductive, ctab, platelet, mwcnt, vanadium, mno2, oxides, biopolymer, supercapacitor
+Thermodynamics : multiwalled, blended, lag, dehydration, wrapped, working, carbonate, propylene, fuels, tial, scaffolds, isopropanol, electrodeposition, porosity, pervaporation
+Engineering : voltammetric, inclusion, combinatorial, synergistic, benzyl, solder, strand, benzaldehyde, methylated, gelatin, tundish, ceo2, thiourea, electrodeposition, stripping
+Materials Science : sputtered, magnetron, fused, detectors, conductive, 100, mev, se, alkaline, period, electrically, refractive, linearization, ge, transparent
+Engineering : expressions, kernel, counter, 316l, early, cubic, volterra, refractive, reconstruction, face, burr, chip, uhmwpe, ti6al4v, dislocation
+Computer Science : implants, sequential, precursor, 100, mev, incremental, blunt, supercapacitors, magnetron sputtering, sucrose, batio3, nio, dielectrics, atmosphere
+Engineering : capture, silane, sink, constraints, enhance, graphical, pinch, hydromagnetic, pole, pcm, foam, clathrate hydrate, suspension, bentonite
+Nanoscience & Nanotechnology : magneto, caloric, diffusive, evidences, resistive, ferromagnetic, corrections, 3mno3, kelvin, helmholtz, melt, onset, wt, cu2o, bfo
+Materials Science : anisic, coke, assembled, indigenously, pore, averaged, steric, flower, nanoclay, condensation, antimicrobial, nanofiltration, parts, catalysis, polyamide
+Engineering : relaying, thyristor, sequence, negative, infrastructure, transmitter, quadrature, codes, bound, qam, pole placement, relays, preprocessing, decoding
+Engineering : inside, iso, breakup, octane, voltages, initiated, epichlorohydrin, potassium, nitrate, droplet agglomeration, uhf, ferroelectric, atomization, isotherm
+Engineering : aluminide, vapour, thermography, standing, defect, conductive, electrically, bond, gallium, harvesting, niobium, refrigeration, ferroelectrics, fires, r134a
+Engineering : triple, tm, key, surrounding, tmsg, tail, slots, notch, functionality, 2d, interpretation, mos, bonding, crystallization, transconductance
+Engineering : unknown, delayed, common, oscillators, complete, lag, levels, stroke, chaos synchronization, elliptic curve, cryptography, variance, hyperchaos
+Engineering : infinity, maximizing, invariant, passive, wise, switched, sharing, responses, ripple, boost regulator, iterative partitioning, pwm, trust
+Engineering : combinatorial, classify, laminate, 316, dynamically, ln, spatial, distortion, hiding, repairable, delays, confidence interval, sssc, pso
+Engineering : yb3, white, dy3, alumino, yb, batteries, microtexture, charcoal, luminescent, silicate, de, filler, lithium, quenching, leds
+Engineering : emulsions, curing, muscle, beds, glassy, macro, molten, diagrams, dilute, silicone implants, smooth, cracking, microfiltration, electrolytes
+Engineering : optoelectronic, fe2o3, sb, iodide, buffer, oscillators, pole, in2s3, se, electrospun, synthesised, movement, chalcogenide, czts, ge
+Engineering : facing, flight, generic, exploration, clean, tapered, develop, strains, stall, coals, scramjet combustor, convolution, dump, experiment
+Automation & Control Systems : cosine, filtering, nonlocal, modulated, extreme, banks, adjustable, stop, multispectral, pixel significance, multifocus, wiener, mri, window
+Engineering : interstitial, cryogenic, trip, bilinear, spot, gma, stem, path, twinning, plasticity, aging, recrystallization, ratcheting, brazing, fenugreek
+Thermodynamics : pore, consisting, nebulizer, inlet, molar, hydroxide, capacitive, nonuniformity, hexavalent, trivalent, ammonia, neutron scattering, ozone, polypyrrole
+Chemistry : reagents, facing, boards, challenging, values, pellets, pharmaceutical, pineapple, spectrophotometric, enrichment, hematite, flotation, beneficiation, flocculation, bromelain
+Energy & Fuels : mono, narrow, 6063, groove, lower, dissimilar, welds, commercially, monotonic, hardened, indentation, microstructures, toughness, hardness, cryorolling
+Energy & Fuels : bounded, oscillating, corrected, curved, vane, shock, phenomenon, perspectives, conservative, epsilon, changing, thermography, fires, buoyancy, turbulence
+Engineering : electrodeposited, selenide, wc, sulphide, solder, reversal, photoelectrochemical, nanofibrous, polycarbonate, cocr, telluride, successive, track, inserts, gallium
+Energy & Fuels : en, delays, cofe2o4, delaminated, observer, vehicular, pollution, centre, 20, 100, delhi, vibrations, environments, skew, mineralization
+Metallurgy & Metallurgical Engineering : hexagonal, configurations, fabric, functionality, sierpinski, sieve, ctab, platelet, nitride, hydrogenation, toluene, platinum, palladium, rejection, lubrication
+Engineering : intensification, nanosheets, lactic, curcas, sequential, edible, stream, feedstock, esters, amines, alkyl, mono, dioctyloctan, jatropha, cavitation
+Engineering : universal, generating, digitally, commercial, difference, biquadratic, language, sinh, realization, bidirectional, standards, soc, scaling, vlsi, cordic
+Energy & Fuels : eu, tb, na, er, yttrium, nanophosphor, nitric, fluorescent, pertraction, extractants, luminescent, perovskite, diglycolamide, zeolite, mercury
+Engineering : solvothermal, cdse, nanosheets, shift, tuned, ce0, cd1, solder, obtain, fe2o3, superparamagnetic, cyanide, ceo2, detoxification, resistivity
+Agricultural Engineering : nanosized, ce, dopants, incorporation, additional, nife2o4, grained, ultrafine, delta, exhibiting, shift, nial, dispersed, toluene, titania
+Energy & Fuels : cuins2, bi2s3, cuckoo, successive, glycolic, magnitude, inspired, nature, calculations, selenide, layers, sulphide, thresholding, silar, redundancy
+Engineering : mechanically, gemini, 45, pipeline, appraisal, biologically, milled, dispersed, counter, concentrated, microalloyed, settlement, micelles, antimicrobial, strengthening
+Chemistry : surfacing, feasibility, healthcare, culture, nife2o4, target, phasor, units, virtual, li, abatement, drainage, abrasives, finishing, regeneration
+Engineering : electroluminescent, receptor, pulmonary, therapy, cu2, schiff, anchored, toxic, tetra, terpolymer ligand, montmorillonite, phosphor, tri, electrodialysis
+Engineering : fet, architectures, scaled, drain, gaa, subthreshold, soi, buried, junctionless, cntfet, 30, nitride, microgrids, proposal, spacer
+Acoustics : martensitic, cryogenically, ferromagnetic, melt, electrodes, activation, cooled, tig, wt, inference, bead, predicting, cu2o, anfis, fenugreek
+Engineering : leakage, inp, atomic, distortion, emitting, white, surgery, hereditary, scientific, report, mos, heterojunction diode, gan, sram
+Engineering : yttrium, cohesive, ggbfs, age, er, frictional, adiabatic, giant, 33mno3, 67sr0, magnetoresistance, perovskite, elasticity, modulus, frp
+Engineering : implanted, insight, atomic, immersion, dark, gaas, micron, enhancing, pot, cluster, deep, molybdenum disulfide, dilution, microscopy
+Engineering : unmodified, oscillating, biochemical, dryer, radiata, hexavalent, peel, biosorbent, humidity, vigna seeds, strychnos potatorum, sunflower, permittivity
+Engineering : transverse, frame, lowpass, workpiece, cylinders, resting, radiative, excitation, zircaloy, cracks, magnetorheological finishing, forces, footing, cavitation
+Biotechnology & Applied Microbiology : wt, homogenized, densified, ferromagnetic, 20, good, textural, extremely, 80, pressed, elevated, mosi2, fretting, tib2, calorimetry
+Engineering : compressive, fire, behaviors, regimes, curing, rates, tests, compacting, uniaxial, bricks, abrasion, caco3, foam, cenosphere, permeability
+Engineering : normal, hardfaced, torsional, reversal, sieve, inverted, profiles, heterostructures, unfilled, infilled, rock, behnken, box, modal, divided
+Engineering : fourier, shunt, speaker, moments, vessel, windowing, retinal, fins, lattice, boltzmann, expression, compensated, kernel, gasification, differentiation
+Thermodynamics : added, cycling, sm3, recycled, 2mn0, 5ni0, mg0, food, fungal, tantalum, mossbauer, products, ferrites, polypropylene, magnetite
+Engineering : emd, delineation, encoding, abnormalities, lossless, cuckoo, sms, character, molybdenum disulfide, thresholding, dilution, ecg, kurtosis, lifting
+Engineering : sr, ca, walls, maleic, tio3, zn1, dielectrical, limits, spinel, ceria, batio3, magnetism, substitution, solubility, multiferroic
+Engineering : sorbent, octadecenylacrylate, extractive, viable, sargassum, wastewaters, trace, spectrometry, waters, peroxide, molybdate, hydroxides, photoconductivity, chromatography, preconcentration
+Engineering : interruption, character, disturbance, abnormalities, mammographic, hydraulic, automobile, brake, means, speaker, compensated, machines, sequential, kernel classifier
+Chemistry : programme, mud, future, radioactive, shared, unification, land, status, gray, present, canal, research, targeting, resources, proposal
+Computer Science : thermoelectric, 12, polycrystalline, interstitial, semiconducting, te, 05, parabolic, microscopic, analyses, manganites, tib, harvesting, tic, micelles
+Engineering : longitudinal, latent, pcm, cryogenic, pin, orientations, sink, sinks, railway, event, dirichlet, fin, diffusivity, markov, elliptical
+Engineering : dispersed, geometries, pillared, thermophysical, y2o3, times, consolidated, regimes, tabs, trapezoidal enclosures, nitrate, effectiveness, barriers, isothermal
+Engineering : homogenous, beds, particulate, strong, jute, code, fading, receiver, top, controlling, cement, pavements, irregular, dust, masonry
+Engineering : eutectic, suction, systematic, resistant, blowing, ultrafine, microscopic, pct, sc, plantwide, intelligence, uplift, wedge, vibrations, permeable
+Engineering : annular, curved, multistep, hydrostatic, engines, rabinowitsch, orthotropic, fins, sector, contactors, panels, debris, thrust, elliptical, confinement
+Automation & Control Systems : initial, singular, inter, modal, laboratory, torsional, grained, setup, pendulum, energies, sparse, roller, specimen, salinity, islanding
+Automation & Control Systems : la, cox, bifeo3, pr, li, 5na0, undoped, tank, ni1, bronze, 3sb2, decolourization, ferroelectrics, ferroelectric, pyroelectric
+Engineering : styrene, phenomena, triblock, physico, po4, electromagnetic, acrylonitrile, arsenate, bimetallic, biosurfactant, palladium, calcination, molybdenum, biocompatible, polystyrene
+Engineering : designing, entrapped, ecofriendly, bioactive, synergistic, bodies, action, meso, encapsulated, biomedical, functionalization, porphyrin, biopolymer, polymers, nanomaterials
+Engineering : impingement, predicting, electroless, impinging, fabric, dehydration, mist, medicinal, nozzle, sharp, mgo, hydrodesulfurization, cotton, rewetting, resistivity
+Engineering : approximation, accuracy, hardware, magnitude, piece, wise, elliptic, deployment, segment, cuckoo, sag, forecast, cubic spline, coverage
+Engineering : pump, monoblock, rule, mono, axis, trailing, counter, geometric, extractants, runs, aeroelastic, centrifugal contactors, blade, wavelets
+Engineering : gears, compositions, ordinary, sorbent, workpiece, oscillating, tantalum, precision, multicomponent, magnetorheological finishing, interdiffusion, chromatography, strengthening, cavitation
+Engineering : immersed, bar, regime, winding, cylinders, insulation, tandem, prandtl, investigate, superplastic, bones, sulphur, determining, approximate, deterioration
+Biochemistry & Molecular Biology : robot, serial, manipulators, actinide, logistics, knowledge, polyacrylamide, task assignment, diglycolamide, wdm, spice, multicast, semiconductors, mobility
+Engineering : flange, exterior, tests, delays, pair, existing, damaged, designed, observer, motors, connections, ductile, braced frames, rehabilitation
+Chemistry : darcy, diffusive, onset, duct, soret, couple, convective, regime, stratified, inclined, annulus, brinkman, doubly, generators, melting
+Engineering : bottom, top, floating, wafer, ionization, semiconducting, algan, junction, origin, junctionless transistors, gan, purity, mobility, tunneling
+Engineering : lateral, microchannels, missile, gaussian, drain, setback, enclosure, decentralized, slender, 2d, ic, optic, pile, buildings, displacement
+Materials Science : kalman, quadrature, shunt, compensated, cuckoo, feeding, unscented, stiffened, excited, buffer, qam, target setting, aerodynamic, coverage
+Thermodynamics : inter, combinational, transmit, correlated, spatially, regime, minimum, achieving, delayed, adc, receiver, rayleigh, precision, diversity, ofdm
+Engineering : general, including, benefits, width, key, deployment, vmi, perturbed, numbers, sets, superior, solve, radiative, scaling laws
+Chemistry : transforms, supplier, including, distortion, spatial, stationary, total, exact, dusty, obtained, conveying, similarity measure, braced frames
+Computer Science : multiplexing, spatial, multiuser, imperfect, pilot, estimates, house, designed, deployment, care, hospital, quaternary, likelihood, ofdma, training
+Engineering : multifunctional, bifeo3, contrast, notch, polyelectrolyte, fe3o4, remote, platforms, gd, scaffolds, histogram, nanofibers, bone regeneration, nanostructure
+Engineering : renewable, placement, cooking, generators, competitive, interfacing, impacts, policies, solvents, microcontroller, vegetable oils, dgs, thorium, anfis
+Engineering : agricultural, lactic, drivers, steering, burning, crop, consortium, sugars, navigation, runoff, productivity, sustainability, residue, enzymes, isotherms
+Thermodynamics : newly, synthesised, hydrophobic, textured, boiling, symmetrical, abrasives, finishing, surfaces, brass, durability, condensation, plastics, coir, fretting
+Metallurgy & Metallurgical Engineering : violet, bottom, cdse, citric, evidence, characterizations, task, straw, electrochemically, inlet, anionic, hydrogel, polypropylene, dna, thermodynamics
+Behavioral Sciences : tubular, polyvinyl, concentric, shells, dimethylformamide, zirconate, convective, heater, generators, pvc, cnt, raman, dilution, molybdenum, skew
+Engineering : disc, 600, forged, lubricated, minimum, degrees, quantity, 650, reactions, accumulation, superalloy, inconel 718, superalloys, brazing
+Biotechnology & Applied Microbiology : sized, defected, micron, coaxial, stub, slit, close, sorbent, po4, nacl, lithium, bandpass, fdm, phosphor, miniaturized
+Engineering : web, stiffened, preserving, cache, walled, graphical, cytotoxic, knowledge, tagged, focused, cohesive, separator, hierarchical, frp, privacy
+Engineering : topology, switched, link, winding, rating, twin, fundamental, voltages, vectors, dodecagonal, resonant, manipulator, bam, pwm, statcom
+Engineering : underwater, pressed, profiles, autonomous, silicide, ecofriendly, sulfate, atmospheric, agents, path, groove, localization, polymerization, coconut, ductility
+Engineering : exchangers, circulation, stream, acidic, orientations, tungstate, anisidine, loops, excitations, evacuated, systemic, fragments, so2, collector, exergy
+Engineering : 120, fe2o3, congo, sunlight, auto, sorbent, chlorophenol, electrospun, octadecenylacrylate, rhodamine, photocatalyst, dust, montmorillonite, heterojunction, pollutants
+Engineering : bee, cuckoo, volterra, guided, grayscale, sequential, kernel, quadratic, convective, fir, panel, wettability, skew, microchannel, redundancy
+Engineering : couple, flames, homotopy, bounds, multimodal, recursive, bismuth, governed, premixed, walls, lubricated, ducted, thick, tapered, perturbation
+Computer Science : die, row, migration, systematic, accuracy, automated, windows, greenhouse, object, forging, insertion, facility layout, forecast, softening
+Metallurgy & Metallurgical Engineering : controllers, indirect, stand, precursor, vectors, brushless, common, dodecagonal, regime, im, shunt, rectifier, drives, chaos, pwm
+Engineering : compensation, stand, distortion, twin, decoupled, neutron, unbalanced, detectors, generating, supplying, sensorless, powered, unbalance, vanadium, dfig
+Engineering : junction, sandwiched, no2, acetic, quantifying, passive, droplets, supercapacitors, ceria, methanol, zirconia, nio, reforming, polypyrrole, exergy
+Thermodynamics : relaxation, segment, glassy, auto, scene, measuring, guided, noninvasive, spinel, visual saliency, bilayer, encryption, substitution, cryptography
